@@ -152,7 +152,7 @@ def build_terminal_profile_svg(theme: dict, animated: bool = True) -> str:
     <text x="{PAD_X + 110}" y="152" fill="{theme['bright']}" font-size="12" font-weight="700" letter-spacing="1">PRITHIV</text>
 
     <text x="{PAD_X + 12}" y="174" fill="{theme['dim']}" font-size="11">ROLE</text>
-    <text x="{PAD_X + 110}" y="174" fill="{theme['text']}" font-size="11.5">AI/ML Engineer &amp; Full-Stack Developer</text>
+    <text x="{PAD_X + 110}" y="174" fill="{theme['text']}" font-size="11.5">AI/ML Engineer &amp; Cloud Engineer</text>
 
     <text x="{PAD_X + 12}" y="196" fill="{theme['dim']}" font-size="11">EDUCATION</text>
     <text x="{PAD_X + 110}" y="196" fill="{theme['text']}" font-size="11.5">B.Tech Information Technology</text>

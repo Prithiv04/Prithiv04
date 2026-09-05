@@ -111,7 +111,7 @@ def build_identity_hero_svg(theme: dict, animated: bool = True) -> str:
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{SVG_W:.0f}" height="{SVG_H:.0f}" viewBox="0 0 {SVG_W:.0f} {SVG_H:.0f}" font-family="{FONT_STACK}" role="img" aria-label="PRITHIV // AI Engineering System">
   <title>PRITHIV // AI Engineering System</title>
-  <desc>Signature Identity Hero for Prithiv — AI/ML Engineer &amp; Full-Stack Developer</desc>
+  <desc>Signature Identity Hero for Prithiv — AI/ML Engineer &amp; Cloud Engineer</desc>
 
   <defs>
     <linearGradient id="heroBg" x1="0" y1="0" x2="0" y2="1">
@@ -163,7 +163,7 @@ def build_identity_hero_svg(theme: dict, animated: bool = True) -> str:
   <g>
     {sub_reveal}
     <text x="{SVG_W / 2.0:.1f}" y="142" fill="{theme['text_role']}" font-size="13.5" font-weight="700"
-      text-anchor="middle" letter-spacing="2.5">AI/ML ENGINEER  |  FULL-STACK DEVELOPER</text>
+      text-anchor="middle" letter-spacing="2.5">AI/ML ENGINEER  |  CLOUD ENGINEER</text>
 
     <!-- Center Supporting Line -->
     <text x="{SVG_W / 2.0:.1f}" y="166" fill="{theme['text_dim']}" font-size="11"

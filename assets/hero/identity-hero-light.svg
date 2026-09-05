@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="PRITHIV // AI Engineering System">
   <title>PRITHIV // AI Engineering System</title>
-  <desc>Signature Identity Hero for Prithiv — AI/ML Engineer &amp; Full-Stack Developer</desc>
+  <desc>Signature Identity Hero for Prithiv — AI/ML Engineer &amp; Cloud Engineer</desc>
 
   <defs>
     <linearGradient id="heroBg" x1="0" y1="0" x2="0" y2="1">
@@ -52,7 +52,7 @@
   <g>
     
     <text x="450.0" y="142" fill="#24292f" font-size="13.5" font-weight="700"
-      text-anchor="middle" letter-spacing="2.5">AI/ML ENGINEER  |  FULL-STACK DEVELOPER</text>
+      text-anchor="middle" letter-spacing="2.5">AI/ML ENGINEER  |  CLOUD ENGINEER</text>
 
     <!-- Center Supporting Line -->
     <text x="450.0" y="166" fill="#57606a" font-size="11"
