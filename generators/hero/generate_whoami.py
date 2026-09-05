@@ -128,9 +128,9 @@ def build_whoami_svg(theme: dict, animated: bool = True) -> str:
   <circle cx="36" cy="88" r="2" fill="{theme['accent']}"/>
   <circle cx="{SVG_W - 36:.1f}" cy="88" r="2" fill="{theme['accent']}"/>
 
-  <!-- Section Connector -->
-  <text x="36" y="110" font-family="{FONT_MONO}" font-size="10.5" fill="{theme['text_muted']}" letter-spacing="1.2">
-    MY WORK SPANS THE FULL STACK OF AI ENGINEERING:
+  <!-- Section Philosophy Tagline -->
+  <text x="36" y="110" font-family="{FONT_MONO}" font-size="11.5" font-weight="600" fill="{theme['text_body']}" letter-spacing="1.5">
+    I THINK IN <tspan fill="{theme['cyan']}" font-weight="700">SYSTEMS</tspan>, NOT JUST MODELS.
   </text>
 
   <!-- 2. Metadata Grid (Row 1: CAPABILITIES) -->
