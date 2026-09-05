@@ -205,51 +205,83 @@ TOKENIZATION  →  SMART CONTRACTS
 
 ---
 
-## `> ACHIEVEMENTS`
+## `> SELECTED RECOGNITION`
 
-```
-01  WEB3 CONFERENCE HACKATHON          02  CARDANO HACKATHON ASIA
-    WINNER · DELHI · 2024                  TOP 5 · ASIA REGION
+<table>
+<tr>
+<td width="33%" valign="top">
 
-03  NASA SPACE APPS CHALLENGE
-    FINALIST
-```
+### `01`
+**WEB3 CONFERENCE HACKATHON**<br>
+<sub>`WINNER` &nbsp;·&nbsp; DELHI &nbsp;·&nbsp; 2024</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### `02`
+**CARDANO HACKATHON ASIA**<br>
+<sub>`TOP 5` &nbsp;·&nbsp; ASIA REGION</sub>
+
+</td>
+<td width="34%" valign="top">
+
+### `03`
+**NASA SPACE APPS CHALLENGE**<br>
+<sub>`FINALIST`</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
 
-## `> CURRENTLY`
+## `> CURRENTLY ENGINEERING`
 
-```
-◉ Building   → [AI Agents · Multi-Agent Systems · LLM Applications]
-◉ Learning   → [Advanced RAG · LLM Fine-tuning · MLOps · System Design]
-◉ Exploring  → [Agentic AI · Real-time ML Inference · Edge Deployment]
-◉ Open to    → [Internships · Research Roles · Open-Source Collaboration]
-```
+<table>
+<tr>
+<td width="22%" valign="top"><code>BUILDING</code></td>
+<td><strong>AI AGENTS</strong> &nbsp;·&nbsp; <strong>MULTI-AGENT SYSTEMS</strong> &nbsp;·&nbsp; <strong>LLM APPLICATIONS</strong></td>
+</tr>
+<tr>
+<td valign="top"><code>ENGINEERING</code></td>
+<td><strong>RAG</strong> &nbsp;·&nbsp; <strong>VECTOR SEARCH</strong> &nbsp;·&nbsp; <strong>TOOL CALLING</strong> &nbsp;·&nbsp; <strong>MODEL EVALUATION</strong></td>
+</tr>
+<tr>
+<td valign="top"><code>SYSTEMS</code></td>
+<td><strong>CLOUD DEPLOYMENT</strong> &nbsp;·&nbsp; <strong>REST APIs</strong> &nbsp;·&nbsp; <strong>BACKEND ARCHITECTURE</strong> &nbsp;·&nbsp; <strong>DATA PIPELINES</strong></td>
+</tr>
+<tr>
+<td valign="top"><code>EXPLORING</code></td>
+<td>ADAPTIVE ML &nbsp;·&nbsp; REAL-TIME INFERENCE &nbsp;·&nbsp; EDGE AI</td>
+</tr>
+<tr>
+<td valign="top"><code>OPEN TO</code></td>
+<td><strong>AI/ML INTERNSHIPS</strong> &nbsp;·&nbsp; <strong>RESEARCH</strong> &nbsp;·&nbsp; <strong>OPEN-SOURCE COLLABORATION</strong></td>
+</tr>
+</table>
 
 <br>
-
----
-
-## `> GITHUB TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithiv04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="Prithiv's GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithiv04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  <code>MODELS</code> &nbsp;→&nbsp; <code>AGENTS</code> &nbsp;→&nbsp; <code>DATA</code> &nbsp;→&nbsp; <code>SYSTEMS</code> &nbsp;→&nbsp; <code>DEPLOYMENT</code><br>
+  <sub><em>Building intelligent software that can reason, use tools, process evidence, and operate as reliable systems.</em></sub>
 </p>
 
 <br>
 
-**Contribution Activity**
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/github-contribution-snake-dark.svg">
-  <img src="./assets/stats/github-contribution-snake-light.svg" alt="GitHub contribution snake animation" width="100%">
-</picture>
+## `> OPEN SOURCE / ENGINEERING`
 
-> 💡 _Snake is auto-generated daily via GitHub Actions using [Platane/snk](https://github.com/Platane/snk)_
+<p align="center">
+  <code>PYTHON</code> &nbsp;·&nbsp; <code>AI/ML</code> &nbsp;·&nbsp; <code>CLOUD</code> &nbsp;·&nbsp; <code>BACKEND</code> &nbsp;·&nbsp; <code>SYSTEMS</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prithiv04"><strong><code>EXPLORE GITHUB ↗</code></strong></a>
+</p>
 
 <br>
 
