@@ -45,14 +45,16 @@
 
 ## `$ whoami`
 
-I'm **Prithiv** — an AI/ML Engineer who builds **complete intelligent systems**: from designing models and agents to shipping production applications and cloud infrastructure.
+### I'm **Prithiv** — an **AI/ML Engineer** who builds **complete intelligent systems**: from designing models and agents to shipping production applications and cloud infrastructure.
 
 My work spans the full stack of AI engineering:
 
-> **Machine Learning · Generative AI · LLMs · AI Agents · Computer Vision · NLP**  
-> backed by **Software Engineering · Full Stack · Cloud · Security**
+> <code>CAPABILITIES</code> &nbsp; **Machine Learning** &nbsp;·&nbsp; **Generative AI** &nbsp;·&nbsp; **LLMs** &nbsp;·&nbsp; **AI Agents** &nbsp;·&nbsp; **Computer Vision** &nbsp;·&nbsp; **NLP**  
+> <code>FOUNDATION</code> &nbsp; *backed by* **Software Engineering** &nbsp;·&nbsp; **Full Stack** &nbsp;·&nbsp; **Cloud** &nbsp;·&nbsp; **Security**
 
-Currently pursuing opportunities in **AI/ML internships**, **research roles**, and **open-source collaboration**.
+<br>
+
+> <code>OPPORTUNITIES</code> &nbsp; Currently pursuing opportunities in **AI/ML internships**, **research roles**, and **open-source collaboration**.
 
 <br>
 
