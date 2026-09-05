@@ -1,7 +1,7 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-09-05T08:14:36.387286+00:00",
-  "total_contributions": 88,
+  "fetched_at": "2026-09-05T08:22:51.714347+00:00",
+  "total_contributions": 83,
   "active_days": 56,
   "total_days": 371,
   "start_date": "2025-08-31",
@@ -2334,8 +2334,8 @@
     },
     {
       "date": "2026-07-29",
-      "level": 2,
-      "count": 2,
+      "level": 1,
+      "count": 1,
       "weekday": 3,
       "week_idx": 47
     },
@@ -2439,8 +2439,8 @@
     },
     {
       "date": "2026-08-13",
-      "level": 4,
-      "count": 4,
+      "level": 3,
+      "count": 3,
       "weekday": 4,
       "week_idx": 49
     },
@@ -2467,8 +2467,8 @@
     },
     {
       "date": "2026-08-17",
-      "level": 4,
-      "count": 4,
+      "level": 3,
+      "count": 3,
       "weekday": 1,
       "week_idx": 50
     },
@@ -2572,8 +2572,8 @@
     },
     {
       "date": "2026-09-01",
-      "level": 2,
-      "count": 2,
+      "level": 1,
+      "count": 1,
       "weekday": 2,
       "week_idx": 52
     },
@@ -2593,8 +2593,8 @@
     },
     {
       "date": "2026-09-04",
-      "level": 4,
-      "count": 4,
+      "level": 3,
+      "count": 3,
       "weekday": 5,
       "week_idx": 52
     },
