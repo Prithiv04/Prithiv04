@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="Currently Engineering Focus Map">
   <title>Currently Engineering Focus Map</title>
-  <desc>Structured engineering progression: BUILD -> ENGINEER -> SYSTEMIZE -> EXPLORE -> COLLABORATE</desc>
+  <desc>Structured engineering progression: MODEL -> AGENT -> DATA -> SYSTEM -> DEPLOY</desc>
 
   <defs>
     <linearGradient id="focusBg" x1="0" y1="0" x2="0" y2="1">
@@ -21,7 +21,7 @@
   <!-- Progression Label -->
   <text x="36" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#8c959f" letter-spacing="1.5">TRAJECTORY:</text>
   <text x="130" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" letter-spacing="1.5">
-    <tspan fill="#0969da" font-weight="700">BUILD</tspan> &#160;──►&#160; <tspan fill="#0550ae" font-weight="700">ENGINEER</tspan> &#160;──►&#160; <tspan fill="#0969da" font-weight="700">SYSTEMIZE</tspan> &#160;──►&#160; <tspan fill="#8250df" font-weight="700">EXPLORE</tspan> &#160;──►&#160; <tspan fill="#1a7f37" font-weight="700">COLLABORATE</tspan>
+    <tspan fill="#0969da" font-weight="700">MODEL</tspan> &#160;──►&#160; <tspan fill="#0550ae" font-weight="700">AGENT</tspan> &#160;──►&#160; <tspan fill="#0969da" font-weight="700">DATA</tspan> &#160;──►&#160; <tspan fill="#8250df" font-weight="700">SYSTEM</tspan> &#160;──►&#160; <tspan fill="#1a7f37" font-weight="700">DEPLOY</tspan>
   </text>
   <text x="864.0" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#0969da" text-anchor="end" letter-spacing="1">FOCUS: AI / ML ENGINEERING</text>
 

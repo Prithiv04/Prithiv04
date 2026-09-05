@@ -185,23 +185,23 @@ def build_currently_engineering_svg(theme: dict, animated: bool = True) -> str:
 
     stages = [
         {
-            "label": "BUILDING", "prog": "BUILD", "col": theme["accent"],
+            "label": "BUILDING", "prog": "MODEL", "col": theme["accent"],
             "concepts": [("AI AGENTS", True), ("MULTI-AGENT SYSTEMS", True), ("LLM APPLICATIONS", True)]
         },
         {
-            "label": "ENGINEERING", "prog": "ENGINEER", "col": theme["cyan"],
+            "label": "ENGINEERING", "prog": "AGENT", "col": theme["cyan"],
             "concepts": [("RAG", True), ("VECTOR SEARCH", True), ("TOOL CALLING", True), ("MODEL EVALUATION", True)]
         },
         {
-            "label": "SYSTEMS", "prog": "SYSTEMIZE", "col": theme["accent"],
+            "label": "SYSTEMS", "prog": "DATA", "col": theme["accent"],
             "concepts": [("CLOUD DEPLOYMENT", True), ("REST APIs", True), ("BACKEND ARCHITECTURE", True), ("DATA PIPELINES", True)]
         },
         {
-            "label": "EXPLORING", "prog": "EXPLORE", "col": theme["purple"],
+            "label": "EXPLORING", "prog": "SYSTEM", "col": theme["purple"],
             "concepts": [("ADAPTIVE ML", False), ("REAL-TIME INFERENCE", False), ("EDGE AI", False)]
         },
         {
-            "label": "OPEN TO", "prog": "COLLABORATE", "col": theme["green"],
+            "label": "OPEN TO", "prog": "DEPLOY", "col": theme["green"],
             "concepts": [("AI/ML INTERNSHIPS", True), ("RESEARCH", True), ("OPEN-SOURCE COLLABORATION", True)]
         }
     ]
@@ -251,7 +251,7 @@ def build_currently_engineering_svg(theme: dict, animated: bool = True) -> str:
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w:.0f} {h:.0f}" width="{w:.0f}" height="{h:.0f}" role="img" aria-label="Currently Engineering Focus Map">
   <title>Currently Engineering Focus Map</title>
-  <desc>Structured engineering progression: BUILD -> ENGINEER -> SYSTEMIZE -> EXPLORE -> COLLABORATE</desc>
+  <desc>Structured engineering progression: MODEL -> AGENT -> DATA -> SYSTEM -> DEPLOY</desc>
 
   <defs>
     <linearGradient id="focusBg" x1="0" y1="0" x2="0" y2="1">
