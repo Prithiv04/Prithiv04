@@ -75,7 +75,8 @@ The following are **entirely original** works created for this profile:
 - `generators/github/fetch_languages.py` — Real repository language distribution parser script
 - `generators/github/generate_languages_svg.py` — Language Signal SVG generator script
 - `generators/github/validate_svg.py` — Activity and Language SVG validation script
-- `.github/workflows/refresh-contributions.yml` — Automated telemetry refresh and SVG generation workflow
+- `assets/icons/connect-*.svg` — Minimal self-contained SVG platform connect badges (dark & light variants)
+- `generators/sections/generate_connect_badges.py` — Platform connect badges SVG generator script
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling

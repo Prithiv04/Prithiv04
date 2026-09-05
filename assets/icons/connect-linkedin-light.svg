@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 30" width="124" height="30" role="img" aria-label="LINKEDIN">
+  <title>LINKEDIN ↗</title>
+  <defs>
+    <style>
+      .pill-box {
+        fill: #f6f8fa;
+        stroke: #d0d7de;
+        stroke-width: 1;
+        transition: all 0.2s ease-in-out;
+      }
+      .pill-text {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #1f2328;
+        letter-spacing: 0.8px;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-arrow {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #57606a;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-icon {
+        color: #0a66c2;
+        transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+      }
+      svg:hover .pill-box {
+        fill: #ffffff;
+        stroke: #0a66c2;
+        stroke-width: 1.2;
+      }
+      svg:hover .pill-text {
+        fill: #0a66c2;
+      }
+      svg:hover .pill-arrow {
+        fill: #0a66c2;
+      }
+      svg:hover .pill-icon {
+        filter: drop-shadow(0 0 3px rgba(10, 102, 194, 0.4));
+      }
+    </style>
+  </defs>
+
+  <!-- Background Pill Track -->
+  <rect class="pill-box" x="0.5" y="0.5" width="123" height="29" rx="5"/>
+
+  <!-- Platform Icon -->
+  <g class="pill-icon" transform="translate(10.0, 7.0)">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+      <path fill="currentColor" d="M14.25 14.25h-2.5v-3.91c0-.93-.02-2.13-1.3-2.13-1.3 0-1.5 1.02-1.5 2.07v3.97H6.45V6.75h2.4v1.02h.03c.33-.63 1.15-1.3 2.36-1.3 2.53 0 3 1.66 3 3.82v3.96zM3.75 5.63a1.44 1.44 0 1 1 0-2.88 1.44 1.44 0 0 1 0 2.88zM5 14.25H2.5V6.75H5v7.5z"/>
+    </svg>
+  </g>
+
+  <!-- Platform Label -->
+  <text class="pill-text" x="34.0" y="18.5">LINKEDIN</text>
+
+  <!-- External Arrow Indicator -->
+  <text class="pill-arrow" x="112.0" y="18.5" text-anchor="end">↗</text>
+</svg>

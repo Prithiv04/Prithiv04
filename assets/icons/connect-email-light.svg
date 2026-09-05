@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 30" width="108" height="30" role="img" aria-label="EMAIL">
+  <title>EMAIL ↗</title>
+  <defs>
+    <style>
+      .pill-box {
+        fill: #f6f8fa;
+        stroke: #d0d7de;
+        stroke-width: 1;
+        transition: all 0.2s ease-in-out;
+      }
+      .pill-text {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #1f2328;
+        letter-spacing: 0.8px;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-arrow {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 10px;
+        font-weight: 700;
+        fill: #57606a;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-icon {
+        color: #d93025;
+        transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+      }
+      svg:hover .pill-box {
+        fill: #ffffff;
+        stroke: #d93025;
+        stroke-width: 1.2;
+      }
+      svg:hover .pill-text {
+        fill: #d93025;
+      }
+      svg:hover .pill-arrow {
+        fill: #d93025;
+      }
+      svg:hover .pill-icon {
+        filter: drop-shadow(0 0 3px rgba(234, 67, 53, 0.4));
+      }
+    </style>
+  </defs>
+
+  <!-- Background Pill Track -->
+  <rect class="pill-box" x="0.5" y="0.5" width="107" height="29" rx="5"/>
+
+  <!-- Platform Icon -->
+  <g class="pill-icon" transform="translate(10.0, 7.0)">
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+      <rect x="1.5" y="3" width="13" height="10" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.3"/>
+<path d="M2.5 4.5 L8 8.5 L13.5 4.5" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </g>
+
+  <!-- Platform Label -->
+  <text class="pill-text" x="34.0" y="18.5">EMAIL</text>
+
+  <!-- External Arrow Indicator -->
+  <text class="pill-arrow" x="96.0" y="18.5" text-anchor="end">↗</text>
+</svg>

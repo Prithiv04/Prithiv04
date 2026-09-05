@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 24" width="68" height="24" role="img" aria-label="X">
+  <title>X ↗</title>
+  <defs>
+    <style>
+      .pill-box {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 1;
+        transition: all 0.2s ease-in-out;
+      }
+      .pill-text {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 9px;
+        font-weight: 700;
+        fill: #f0f6fc;
+        letter-spacing: 0.8px;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-arrow {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 9px;
+        font-weight: 700;
+        fill: #8b949e;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-icon {
+        color: #e7e9ea;
+        transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+      }
+      svg:hover .pill-box {
+        fill: #1f242c;
+        stroke: #e7e9ea;
+        stroke-width: 1.2;
+      }
+      svg:hover .pill-text {
+        fill: #e7e9ea;
+      }
+      svg:hover .pill-arrow {
+        fill: #e7e9ea;
+      }
+      svg:hover .pill-icon {
+        filter: drop-shadow(0 0 3px rgba(231, 233, 234, 0.3));
+      }
+    </style>
+  </defs>
+
+  <!-- Background Pill Track -->
+  <rect class="pill-box" x="0.5" y="0.5" width="67" height="23" rx="4.5"/>
+
+  <!-- Platform Icon -->
+  <g class="pill-icon" transform="translate(8.0, 5.5)">
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+      <path fill="currentColor" d="M12.16 1.5h2.2l-4.82 5.51 5.67 7.49h-4.44L7.3 9.96l-3.98 4.54H1.12l5.15-5.89L.83 1.5h4.55l3.14 4.15zm-.77 11.68h1.22L4.72 2.75H3.41z"/>
+    </svg>
+  </g>
+
+  <!-- Platform Label -->
+  <text class="pill-text" x="27.0" y="15.0">X</text>
+
+  <!-- External Arrow Indicator -->
+  <text class="pill-arrow" x="58.0" y="15.0" text-anchor="end">↗</text>
+</svg>

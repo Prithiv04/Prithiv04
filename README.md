@@ -262,17 +262,49 @@ TOKENIZATION  →  SMART CONTRACTS
 ## `> CONNECT`
 
 <p align="center">
-  <a href="https://prithiv-sooty.vercel.app/"><strong><code>PORTFOLIO ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Prithiv04"><strong><code>GITHUB ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prithivr-tech/"><strong><code>LINKEDIN ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:shakilaprithiv9677273879@gmail.com"><strong><code>EMAIL ↗</code></strong></a>
+  <a href="https://prithiv-sooty.vercel.app/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-portfolio.svg">
+      <img src="./assets/icons/connect-portfolio-light.svg" height="28" alt="Portfolio ↗">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Prithiv04">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-github.svg">
+      <img src="./assets/icons/connect-github-light.svg" height="28" alt="GitHub ↗">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/prithivr-tech/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-linkedin.svg">
+      <img src="./assets/icons/connect-linkedin-light.svg" height="28" alt="LinkedIn ↗">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:shakilaprithiv9677273879@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-email.svg">
+      <img src="./assets/icons/connect-email-light.svg" height="28" alt="Email ↗">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://leetcode.com/u/PR_PARKER/"><code>LEETCODE ↗</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://x.com/prddparker"><code>X ↗</code></a>
-  </sub>
+  <a href="https://leetcode.com/u/PR_PARKER/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-leetcode.svg">
+      <img src="./assets/icons/connect-leetcode-light.svg" height="22" alt="LeetCode ↗">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://x.com/prddparker">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/connect-x.svg">
+      <img src="./assets/icons/connect-x-light.svg" height="22" alt="X ↗">
+    </picture>
+  </a>
 </p>
 
 <br>

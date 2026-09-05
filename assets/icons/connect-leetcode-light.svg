@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 24" width="110" height="24" role="img" aria-label="LEETCODE">
+  <title>LEETCODE ↗</title>
+  <defs>
+    <style>
+      .pill-box {
+        fill: #f6f8fa;
+        stroke: #d0d7de;
+        stroke-width: 1;
+        transition: all 0.2s ease-in-out;
+      }
+      .pill-text {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 8.5px;
+        font-weight: 700;
+        fill: #1f2328;
+        letter-spacing: 0.8px;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-arrow {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 8.5px;
+        font-weight: 700;
+        fill: #57606a;
+        transition: fill 0.2s ease-in-out;
+      }
+      .pill-icon {
+        color: #b26a00;
+        transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+      }
+      svg:hover .pill-box {
+        fill: #ffffff;
+        stroke: #b26a00;
+        stroke-width: 1.2;
+      }
+      svg:hover .pill-text {
+        fill: #b26a00;
+      }
+      svg:hover .pill-arrow {
+        fill: #b26a00;
+      }
+      svg:hover .pill-icon {
+        filter: drop-shadow(0 0 3px rgba(255, 161, 22, 0.4));
+      }
+    </style>
+  </defs>
+
+  <!-- Background Pill Track -->
+  <rect class="pill-box" x="0.5" y="0.5" width="109" height="23" rx="4"/>
+
+  <!-- Platform Icon -->
+  <g class="pill-icon" transform="translate(8.0, 5.5)">
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+      <path fill="currentColor" d="M10.73 11.95L8.93 13.69c-.31.31-.74.44-1.22.44s-.9-.13-1.22-.44l-2.89-2.91c-.31-.31-.47-.77-.47-1.24s.16-.9.47-1.22l2.88-2.92c.31-.31.75-.43 1.22-.43s.9.13 1.22.44l1.8 1.74c.34.34.91.33 1.27-.03.36-.36.37-.92.03-1.27l-1.74-1.76a3.38 3.38 0 0 0-2.57-.97c-.98 0-1.9.39-2.59 1.08L2.03 7.82c-.69.69-1.08 1.61-1.08 2.59s.39 1.9 1.08 2.59l2.89 2.91c.69.69 1.61 1.08 2.59 1.08s1.9-.39 2.59-1.08l1.74-1.76c.34-.34.33-.91-.03-1.27-.36-.35-.92-.37-1.27-.03z M9.19 8.58H5.51c-.49 0-.88.4-.88.88s.4.88.88.88h3.68c.49 0 .88-.4.88-.88s-.39-.88-.88-.88z"/>
+    </svg>
+  </g>
+
+  <!-- Platform Label -->
+  <text class="pill-text" x="27.0" y="15.0">LEETCODE</text>
+
+  <!-- External Arrow Indicator -->
+  <text class="pill-arrow" x="100.0" y="15.0" text-anchor="end">↗</text>
+</svg>
