@@ -29,12 +29,12 @@
 
   <!-- Top Left: System Signature -->
   <text x="32" y="24" fill="#8b949e" font-size="10.5" letter-spacing="1.5">
-    SYS // <tspan fill="#58a6ff">PRITHIV.OS</tspan> [v2.4.0-PROD]
+    PRITHIV // <tspan fill="#58a6ff">IDENTITY.SYS</tspan>
   </text>
 
   <!-- Top Right: System Status -->
   <text x="850" y="24" fill="#3fb950" font-size="10.5" font-weight="600" text-anchor="end" letter-spacing="1">
-    SYSTEM STATUS: ONLINE
+    OPEN TO INTERNSHIPS
   </text>
   <circle cx="862" cy="20" r="4.5" fill="#3fb950"/>
 
@@ -72,19 +72,19 @@
 
     <!-- Channel 02 -->
     <text x="265" y="222" text-anchor="middle">
-      <tspan fill="#58a6ff">02:</tspan> <tspan fill="#8b949e">AI AGENTS</tspan>
+      <tspan fill="#58a6ff">02:</tspan> <tspan fill="#8b949e">SYSTEMS</tspan>
     </text>
     <circle cx="355" cy="219" r="1.5" fill="#30363d"/>
 
     <!-- Channel 03 -->
     <text x="450" y="222" text-anchor="middle">
-      <tspan fill="#58a6ff">03:</tspan> <tspan fill="#8b949e">LLMs &amp; RAG</tspan>
+      <tspan fill="#58a6ff">03:</tspan> <tspan fill="#8b949e">SOFTWARE</tspan>
     </text>
     <circle cx="545" cy="219" r="1.5" fill="#30363d"/>
 
     <!-- Channel 04 -->
     <text x="635" y="222" text-anchor="middle">
-      <tspan fill="#58a6ff">04:</tspan> <tspan fill="#8b949e">FULL-STACK</tspan>
+      <tspan fill="#58a6ff">04:</tspan> <tspan fill="#8b949e">CLOUD</tspan>
     </text>
     <circle cx="725" cy="219" r="1.5" fill="#30363d"/>
 

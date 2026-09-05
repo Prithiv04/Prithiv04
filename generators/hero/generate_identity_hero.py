@@ -140,12 +140,12 @@ def build_identity_hero_svg(theme: dict, animated: bool = True) -> str:
 
   <!-- Top Left: System Signature -->
   <text x="32" y="24" fill="{theme['text_dim']}" font-size="10.5" letter-spacing="1.5">
-    SYS // <tspan fill="{theme['accent']}">PRITHIV.OS</tspan> [v2.4.0-PROD]
+    PRITHIV // <tspan fill="{theme['accent']}">IDENTITY.SYS</tspan>
   </text>
 
   <!-- Top Right: System Status -->
   <text x="850" y="24" fill="{theme['green']}" font-size="10.5" font-weight="600" text-anchor="end" letter-spacing="1">
-    SYSTEM STATUS: ONLINE
+    OPEN TO INTERNSHIPS
   </text>
   {status_dot_anim}
 
@@ -183,19 +183,19 @@ def build_identity_hero_svg(theme: dict, animated: bool = True) -> str:
 
     <!-- Channel 02 -->
     <text x="265" y="222" text-anchor="middle">
-      <tspan fill="{theme['accent']}">02:</tspan> <tspan fill="{theme['text_dim']}">AI AGENTS</tspan>
+      <tspan fill="{theme['accent']}">02:</tspan> <tspan fill="{theme['text_dim']}">SYSTEMS</tspan>
     </text>
     <circle cx="355" cy="219" r="1.5" fill="{theme['border']}"/>
 
     <!-- Channel 03 -->
     <text x="450" y="222" text-anchor="middle">
-      <tspan fill="{theme['accent']}">03:</tspan> <tspan fill="{theme['text_dim']}">LLMs &amp; RAG</tspan>
+      <tspan fill="{theme['accent']}">03:</tspan> <tspan fill="{theme['text_dim']}">SOFTWARE</tspan>
     </text>
     <circle cx="545" cy="219" r="1.5" fill="{theme['border']}"/>
 
     <!-- Channel 04 -->
     <text x="635" y="222" text-anchor="middle">
-      <tspan fill="{theme['accent']}">04:</tspan> <tspan fill="{theme['text_dim']}">FULL-STACK</tspan>
+      <tspan fill="{theme['accent']}">04:</tspan> <tspan fill="{theme['text_dim']}">CLOUD</tspan>
     </text>
     <circle cx="725" cy="219" r="1.5" fill="{theme['border']}"/>
 
