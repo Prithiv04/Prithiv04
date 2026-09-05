@@ -1,10 +1,11 @@
-<h1 align="center">PRITHIV</h1>
-<p align="center">
-  <strong>AI/ML ENGINEER &nbsp;|&nbsp; FULL-STACK DEVELOPER</strong><br>
-  <em>Autonomous Intelligent Systems &nbsp;·&nbsp; Enterprise Software Architecture &nbsp;·&nbsp; Chennai, India</em>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/identity-hero.svg">
+    <img src="./assets/hero/identity-hero-light.svg" alt="PRITHIV // AI ENGINEERING SYSTEM" width="100%" style="max-width: 900px;">
+  </picture>
+</div>
 
----
+<br>
 
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="8" width="100%">

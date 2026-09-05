@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="PRITHIV // AI Engineering System">
+  <title>PRITHIV // AI Engineering System</title>
+  <desc>Signature Identity Hero for Prithiv — AI/ML Engineer &amp; Full-Stack Developer</desc>
+
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fa"/>
+    </linearGradient>
+
+    <!-- Subtle Dot Grid Pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#000000" opacity="0.04"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Frame Background & Grid -->
+  <rect width="900" height="240" rx="10" fill="url(#heroBg)"/>
+  <rect width="900" height="240" rx="10" fill="url(#dotGrid)"/>
+  <rect x="0.5" y="0.5" width="899.0" height="239.0" rx="9.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Corner Reticles (+) -->
+  <path d="M 12 18 L 12 12 L 18 12 M 882 12 L 888 12 L 888 18 M 12 222 L 12 228 L 18 228 M 882 228 L 888 228 L 888 222"
+    fill="none" stroke="#0969da" stroke-width="1.2" opacity="0.75"/>
+
+  <!-- Top Rail Separator -->
+  <line x1="0" y1="38" x2="900" y2="38" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Top Left: System Signature -->
+  <text x="32" y="24" fill="#57606a" font-size="10.5" letter-spacing="1.5">
+    SYS // <tspan fill="#0969da">PRITHIV.OS</tspan> [v2.4.0-PROD]
+  </text>
+
+  <!-- Top Right: System Status -->
+  <text x="850" y="24" fill="#1a7f37" font-size="10.5" font-weight="600" text-anchor="end" letter-spacing="1">
+    SYSTEM STATUS: ONLINE
+  </text>
+  <circle cx="862" cy="20" r="4.5" fill="#1a7f37"/>
+
+  <!-- Center Identity Anchor: PRITHIV -->
+  <g >
+    <text x="450.0" y="98" fill="#0969da" font-size="44" font-weight="800"
+      text-anchor="middle" letter-spacing="8">PRITHIV</text>
+  </g>
+
+  <!-- Center Accent Rule -->
+  <line x1="330" y1="112" x2="570" y2="112" stroke="#0969da" stroke-width="1.5"/>
+  <circle cx="450.0" cy="112" r="3" fill="#0969da"/>
+
+  <!-- Center Subtitle: Role -->
+  <g>
+    
+    <text x="450.0" y="142" fill="#24292f" font-size="13.5" font-weight="700"
+      text-anchor="middle" letter-spacing="2.5">AI/ML ENGINEER  |  FULL-STACK DEVELOPER</text>
+
+    <!-- Center Supporting Line -->
+    <text x="450.0" y="166" fill="#57606a" font-size="11"
+      text-anchor="middle" letter-spacing="1">Autonomous Intelligent Systems · Enterprise Software Architecture · Chennai, India</text>
+  </g>
+
+  <!-- Bottom Rail Separator -->
+  <line x1="0" y1="198" x2="900" y2="198" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Bottom Rail: System Channel Index -->
+  <g font-size="10" letter-spacing="1.2">
+    <!-- Channel 01 -->
+    <text x="85" y="222" text-anchor="middle">
+      <tspan fill="#0969da">01:</tspan> <tspan fill="#57606a">AI / ML</tspan>
+    </text>
+    <circle cx="175" cy="219" r="1.5" fill="#d0d7de"/>
+
+    <!-- Channel 02 -->
+    <text x="265" y="222" text-anchor="middle">
+      <tspan fill="#0969da">02:</tspan> <tspan fill="#57606a">AI AGENTS</tspan>
+    </text>
+    <circle cx="355" cy="219" r="1.5" fill="#d0d7de"/>
+
+    <!-- Channel 03 -->
+    <text x="450" y="222" text-anchor="middle">
+      <tspan fill="#0969da">03:</tspan> <tspan fill="#57606a">LLMs &amp; RAG</tspan>
+    </text>
+    <circle cx="545" cy="219" r="1.5" fill="#d0d7de"/>
+
+    <!-- Channel 04 -->
+    <text x="635" y="222" text-anchor="middle">
+      <tspan fill="#0969da">04:</tspan> <tspan fill="#57606a">FULL-STACK</tspan>
+    </text>
+    <circle cx="725" cy="219" r="1.5" fill="#d0d7de"/>
+
+    <!-- Channel 05 -->
+    <text x="815" y="222" text-anchor="middle">
+      <tspan fill="#0969da">05:</tspan> <tspan fill="#57606a">DEPLOYMENT</tspan>
+    </text>
+  </g>
+</svg>

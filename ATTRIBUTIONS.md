@@ -37,6 +37,10 @@ The following open-source projects were studied for their architecture, animatio
 
 The following are **entirely original** works created for this profile:
 
+- `assets/hero/identity-hero.svg` — Custom animated Signature AI Engineering Identity Hero (SMIL)
+- `assets/hero/identity-hero-static.svg` — Static dark identity hero variant
+- `assets/hero/identity-hero-light.svg` — Static light mode identity hero variant
+- `generators/hero/generate_identity_hero.py` — Identity hero SVG generator script
 - `assets/hero/ascii-portrait.svg` — Custom animated terminal ASCII portrait (SMIL) generated from `hhgoa.jpeg`
 - `assets/hero/ascii-portrait-static.svg` — Static dark variant
 - `assets/hero/ascii-portrait-light.svg` — Static light mode variant
