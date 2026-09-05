@@ -274,7 +274,7 @@ def build_currently_engineering_svg(theme: dict, animated: bool = True) -> str:
   <text x="130" y="23" font-family="{FONT_MONO}" font-size="9" letter-spacing="1.5">
     {prog_ribbon}
   </text>
-  <text x="{w - 36:.1f}" y="23" font-family="{FONT_MONO}" font-size="9" fill="{theme['green']}" text-anchor="end" letter-spacing="1">STATUS: ACTIVE</text>
+  <text x="{w - 36:.1f}" y="23" font-family="{FONT_MONO}" font-size="9" fill="{theme['accent']}" text-anchor="end" letter-spacing="1">FOCUS: AI / ML ENGINEERING</text>
 
   <!-- Vertical Timeline Guide Line on Left -->
   <line x1="104" y1="74" x2="104" y2="218" stroke="{theme['border']}" stroke-width="1" stroke-dasharray="2 3" opacity="0.5"/>
