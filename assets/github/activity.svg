@@ -247,7 +247,7 @@
     <rect x="457.0" y="118.0" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-03-05: No commits</title></rect>
     <rect x="457.0" y="131.5" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-03-06: No commits</title></rect>
     <rect x="457.0" y="145.0" width="10.0" height="10.0" rx="2" fill="#1b3858" stroke="#234b76" stroke-width="0.8" opacity="0.85"><title>2026-03-07: 1 commits</title></rect>
-    <rect x="470.5" y="64.0" width="10.0" height="10.0" rx="2" fill="#2d7cd1" stroke="#388bfd" stroke-width="0.8" opacity="1.0"><title>2026-03-08: 3 commits</title></rect>
+    <rect x="470.5" y="64.0" width="10.0" height="10.0" rx="2" fill="#1f568d" stroke="#286db3" stroke-width="0.8" opacity="0.95"><title>2026-03-08: 2 commits</title></rect>
     <rect x="470.5" y="77.5" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-03-09: No commits</title></rect>
     <rect x="470.5" y="91.0" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-03-10: No commits</title></rect>
     <rect x="470.5" y="104.5" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-03-11: No commits</title></rect>
@@ -407,7 +407,7 @@
     <rect x="767.5" y="104.5" width="10.0" height="10.0" rx="2" fill="#1f568d" stroke="#286db3" stroke-width="0.8" opacity="0.95"><title>2026-08-12: 2 commits</title></rect>
     <rect x="767.5" y="118.0" width="10.0" height="10.0" rx="2" fill="#2d7cd1" stroke="#388bfd" stroke-width="0.8" opacity="1.0"><title>2026-08-13: 3 commits</title></rect>
     <rect x="767.5" y="131.5" width="10.0" height="10.0" rx="2" fill="#1f568d" stroke="#286db3" stroke-width="0.8" opacity="0.95"><title>2026-08-14: 2 commits</title></rect>
-    <rect x="767.5" y="145.0" width="10.0" height="10.0" rx="2" fill="#2d7cd1" stroke="#388bfd" stroke-width="0.8" opacity="1.0"><title>2026-08-15: 3 commits</title></rect>
+    <rect x="767.5" y="145.0" width="10.0" height="10.0" rx="2" fill="#1f568d" stroke="#286db3" stroke-width="0.8" opacity="0.95"><title>2026-08-15: 2 commits</title></rect>
     <rect x="781.0" y="64.0" width="10.0" height="10.0" rx="2" fill="#1b3858" stroke="#234b76" stroke-width="0.8" opacity="0.85"><title>2026-08-16: 1 commits</title></rect>
     <rect x="781.0" y="77.5" width="10.0" height="10.0" rx="2" fill="#2d7cd1" stroke="#388bfd" stroke-width="0.8" opacity="1.0"><title>2026-08-17: 3 commits</title></rect>
     <rect x="781.0" y="91.0" width="10.0" height="10.0" rx="2" fill="#161b22" stroke="#21262d" stroke-width="0.8" opacity="0.6"><title>2026-08-18: No commits</title></rect>

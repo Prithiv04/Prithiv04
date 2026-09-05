@@ -1,9 +1,9 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-09-05T08:51:25.420697+00:00",
+  "fetched_at": "2026-09-05T14:06:54.550876+00:00",
   "total_repos": 32,
   "repos_sampled": 29,
-  "total_bytes": 11275374,
+  "total_bytes": 11275500,
   "languages": [
     {
       "name": "JavaScript",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Python",
-      "bytes": 2533601,
+      "bytes": 2533727,
       "percentage": 22.5,
       "pct_display": "22%"
     },
