@@ -262,17 +262,17 @@ TOKENIZATION  →  SMART CONTRACTS
 ## `> CONNECT`
 
 <p align="center">
-  <a href="https://linkedin.com/in/prithiv04">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Prithiv04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:prithiv.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://prithiv-sooty.vercel.app/"><strong><code>PORTFOLIO ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Prithiv04"><strong><code>GITHUB ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prithivr-tech/"><strong><code>LINKEDIN ↗</code></strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:shakilaprithiv9677273879@gmail.com"><strong><code>EMAIL ↗</code></strong></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://leetcode.com/u/PR_PARKER/"><code>LEETCODE ↗</code></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://x.com/prddparker"><code>X ↗</code></a>
+  </sub>
 </p>
 
 <br>
