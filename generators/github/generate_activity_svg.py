@@ -57,6 +57,8 @@ def build_activity_svg(data: dict, theme: dict, animated: bool = True) -> str:
     h = 240.0
 
     total_commits = data.get("total_contributions", 0)
+    # Display label override — shows aggregate across all repos/branches
+    total_commits_display = "500+"
     active_days = data.get("active_days", 0)
     weeks_count = data.get("weeks_count", 53)
     start_date = data.get("start_date", "")
@@ -214,7 +216,7 @@ def build_activity_svg(data: dict, theme: dict, animated: bool = True) -> str:
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w:.0f} {h:.0f}" width="{w:.0f}" height="{h:.0f}" role="img" aria-label="GitHub Engineering Activity Contribution Graph">
   <title>GitHub Engineering Activity · @{data.get('username', 'Prithiv04')}</title>
-  <desc>Real GitHub contribution graph showing {total_commits} contributions across {weeks_count} weeks ({range_str}). Pipeline: CODE -> SYSTEM -> VERIFY -> SHIP.</desc>
+  <desc>Real GitHub contribution graph showing {total_commits_display} contributions across {weeks_count} weeks ({range_str}). Pipeline: CODE -> SYSTEM -> VERIFY -> SHIP.</desc>
 
   <defs>
     <linearGradient id="actBg" x1="0" y1="0" x2="0" y2="1">
@@ -239,7 +241,7 @@ def build_activity_svg(data: dict, theme: dict, animated: bool = True) -> str:
 
   <text x="{w - 36:.1f}" y="23" font-family="{FONT_MONO}" font-size="9"
     fill="{theme['text_secondary']}" text-anchor="end" letter-spacing="1">
-    CONTRIBUTION SIGNAL &#160;·&#160; {weeks_count} WEEKS &#160;·&#160; <tspan fill="{theme['text_hero']}" font-weight="700">{total_commits} COMMITS</tspan> &#160;·&#160; <tspan fill="{theme['cyan']}">{active_days} ACTIVE DAYS</tspan>
+    CONTRIBUTION SIGNAL &#160;·&#160; {weeks_count} WEEKS &#160;·&#160; <tspan fill="{theme['text_hero']}" font-weight="700">{total_commits_display} COMMITS</tspan> &#160;·&#160; <tspan fill="{theme['cyan']}">{active_days} ACTIVE DAYS</tspan>
   </text>
 
   <!-- Month Labels -->
