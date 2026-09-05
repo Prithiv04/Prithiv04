@@ -53,6 +53,10 @@ The following are **entirely original** works created for this profile:
 - `assets/hero/ai-console-static.svg` — Static dark visual monitor variant
 - `assets/hero/ai-console-light.svg` — Static light mode visual monitor variant
 - `generators/hero/generate_ai_console.py` — Visual AI Systems Monitor SVG generator script
+- `assets/hero/whoami-editorial.svg` — Custom animated Editorial WhoAmI Typography (SVG)
+- `assets/hero/whoami-editorial-static.svg` — Static dark editorial whoami variant
+- `assets/hero/whoami-editorial-light.svg` — Static light mode editorial whoami variant
+- `generators/hero/generate_whoami.py` — Editorial WhoAmI typography SVG generator script
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268" role="img" aria-label="Prithiv — AI Engineering Profile">
+  <title>Prithiv — AI Engineering Profile</title>
+  <desc>I'm Prithiv — an AI/ML Engineer who builds complete intelligent systems</desc>
+
+  <defs>
+    <linearGradient id="editorialBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fa"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .meta-row {
+      cursor: default;
+    }
+    .row-bg {
+      transition: fill-opacity 0.2s ease, stroke-opacity 0.2s ease;
+    }
+    .row-label {
+      transition: fill 0.2s ease;
+    }
+    .meta-row:hover .row-bg {
+      fill-opacity: 0.08 !important;
+      stroke-opacity: 0.8 !important;
+    }
+    .meta-row:hover .row-label {
+      fill: #0550ae !important;
+    }
+  </style>
+
+  <!-- Frame Background & Hairline Border -->
+  <rect width="900" height="268" rx="10" fill="url(#editorialBg)"/>
+  <rect x="0.5" y="0.5" width="899.0" height="267.0" rx="9.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  
+
+  <!-- 1. Opening Focal Paragraph -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+    <!-- Primary Hook (Line 1) -->
+    <text x="36" y="44" font-size="16.5" fill="#24292f" letter-spacing="-0.2">
+      I&#8217;m <tspan fill="#1f2328" font-weight="700">Prithiv</tspan> &#8212; an <tspan fill="#0969da" font-weight="700">AI/ML Engineer</tspan> who builds <tspan fill="#0550ae" font-weight="700">complete intelligent systems</tspan>:
+    </text>
+    <!-- Scope & Infrastructure (Line 2) -->
+    <text x="36" y="69" font-size="14.5" fill="#57606a" letter-spacing="-0.1">
+      from designing models and agents to shipping production applications and cloud infrastructure.
+    </text>
+  </g>
+
+  <!-- Technical Divider Line -->
+  <line x1="36" y1="88" x2="864.0" y2="88" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="36" cy="88" r="2" fill="#0969da"/>
+  <circle cx="864.0" cy="88" r="2" fill="#0969da"/>
+
+  <!-- Section Connector -->
+  <text x="36" y="110" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8c959f" letter-spacing="1.2">
+    MY WORK SPANS THE FULL STACK OF AI ENGINEERING:
+  </text>
+
+  <!-- 2. Metadata Grid (Row 1: CAPABILITIES) -->
+  <g class="meta-row">
+    <!-- Row Hitbox / Hover Background -->
+    <rect x="36" y="123" width="828.0" height="38" rx="6" fill="#0969da" fill-opacity="0" stroke="#d0d7de" stroke-opacity="0.35" class="row-bg"/>
+    <!-- Left Monospace Badge -->
+    <rect x="42" y="129" width="138" height="26" rx="4" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+    <text x="111" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#0969da" text-anchor="middle" letter-spacing="1.5" class="row-label">CAPABILITIES</text>
+    <!-- Content String -->
+    <text x="194" y="147" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#24292f" letter-spacing="-0.1">
+      <tspan font-weight="600" fill="#1f2328">Machine Learning</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">Generative AI</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">LLMs</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">AI Agents</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">Computer Vision</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">NLP</tspan>
+    </text>
+  </g>
+
+  <!-- 3. Metadata Grid (Row 2: FOUNDATION) -->
+  <g class="meta-row">
+    <!-- Row Hitbox / Hover Background -->
+    <rect x="36" y="167" width="828.0" height="38" rx="6" fill="#0969da" fill-opacity="0" stroke="#d0d7de" stroke-opacity="0.35" class="row-bg"/>
+    <!-- Left Monospace Badge -->
+    <rect x="42" y="173" width="138" height="26" rx="4" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+    <text x="111" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700" fill="#0969da" text-anchor="middle" letter-spacing="1.5" class="row-label">FOUNDATION</text>
+    <!-- Content String -->
+    <text x="194" y="191" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#24292f" letter-spacing="-0.1">
+      <tspan font-style="italic" fill="#57606a">backed by</tspan> &#160;
+      <tspan font-weight="600" fill="#1f2328">Software Engineering</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">Full Stack</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">Cloud</tspan> &#160;&#183;&#160; 
+      <tspan font-weight="600" fill="#1f2328">Security</tspan>
+    </text>
+  </g>
+
+  <!-- 4. Metadata Grid (Row 3: OPPORTUNITIES) -->
+  <g class="meta-row">
+    <!-- Row Hitbox / Hover Background -->
+    <rect x="36" y="211" width="828.0" height="38" rx="6" fill="#0969da" fill-opacity="0" stroke="#d0d7de" stroke-opacity="0.35" class="row-bg"/>
+    <!-- Left Monospace Badge -->
+    <rect x="42" y="217" width="138" height="26" rx="4" fill="#eaeef2" stroke="#1a7f37" stroke-width="1" stroke-opacity="0.7"/>
+    <circle cx="56" cy="230" r="3" fill="#1a7f37"/>
+    <text x="116" y="234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="700" fill="#1a7f37" text-anchor="middle" letter-spacing="1.2" class="row-label">OPPORTUNITIES</text>
+    <!-- Content String -->
+    <text x="194" y="235" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#24292f" letter-spacing="-0.1">
+      Currently pursuing opportunities in <tspan font-weight="600" fill="#1f2328">AI/ML internships</tspan>, <tspan font-weight="600" fill="#1f2328">research roles</tspan>, and <tspan font-weight="600" fill="#1f2328">open-source collaboration</tspan>.
+    </text>
+  </g>
+</svg>
