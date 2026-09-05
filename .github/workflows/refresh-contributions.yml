@@ -1,0 +1,44 @@
+name: Refresh Engineering Activity Contributions
+
+on:
+  schedule:
+    # Runs twice daily at 00:00 and 12:00 UTC
+    - cron: "0 0,12 * * *"
+  workflow_dispatch: # Allow manual trigger
+  push:
+    paths:
+      - "generators/github/**"
+      - ".github/workflows/refresh-contributions.yml"
+
+jobs:
+  refresh-activity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch real GitHub contributions
+        run: python generators/github/fetch_contributions.py
+
+      - name: Generate engineering activity SVGs
+        run: python generators/github/generate_activity_svg.py
+
+      - name: Validate generated SVGs
+        run: python generators/github/validate_svg.py
+
+      - name: Commit updated assets and data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(activity): refresh engineering activity visualizer [skip ci]"
+          file_pattern: "assets/github/*.svg data/github/contributions.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"

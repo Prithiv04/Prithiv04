@@ -64,6 +64,13 @@ The following are **entirely original** works created for this profile:
 - `assets/sections/currently-engineering-static.svg` — Static dark engineering focus map variant
 - `assets/sections/currently-engineering-light.svg` — Static light mode engineering focus map variant
 - `generators/sections/generate_sections.py` — Milestones and engineering focus map SVG generator script
+- `assets/github/activity.svg` — Custom animated Engineering Activity Visualizer (SMIL) powered by real GitHub contributions
+- `assets/github/activity-static.svg` — Static dark engineering activity variant
+- `assets/github/activity-light.svg` — Static light mode engineering activity variant
+- `generators/github/fetch_contributions.py` — Real public GitHub contributions parser script
+- `generators/github/generate_activity_svg.py` — Engineering Activity Visualizer SVG generator script
+- `generators/github/validate_svg.py` — Activity SVG validation script
+- `.github/workflows/refresh-contributions.yml` — Automated contribution refresh and SVG generation workflow
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling

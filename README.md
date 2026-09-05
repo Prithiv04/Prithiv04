@@ -227,7 +227,17 @@ TOKENIZATION  →  SMART CONTRACTS
 
 ---
 
-## `> OPEN SOURCE / ENGINEERING`
+## `> ENGINEERING IN PUBLIC`
+
+> *A visual record of the systems I build, test, verify, and ship.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github/activity.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github/activity-light.svg">
+  <img src="./assets/github/activity-static.svg" alt="GitHub contribution activity over the past year, visualized as an engineering activity signal" width="100%">
+</picture>
+
+<br>
 
 <p align="center">
   <code>PYTHON</code> &nbsp;·&nbsp; <code>AI/ML</code> &nbsp;·&nbsp; <code>CLOUD</code> &nbsp;·&nbsp; <code>BACKEND</code> &nbsp;·&nbsp; <code>SYSTEMS</code>
