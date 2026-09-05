@@ -237,6 +237,14 @@ TOKENIZATION  →  SMART CONTRACTS
   <img src="./assets/github/activity-static.svg" alt="GitHub contribution activity over the past year, visualized as an engineering activity signal" width="100%">
 </picture>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github/languages.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github/languages-light.svg">
+  <img src="./assets/github/languages-static.svg" alt="Programming language signal across public repositories: JavaScript 43%, Python 22%, TypeScript 10%, C 9%, C++ 7%" width="100%">
+</picture>
+
 <br>
 
 <p align="center">

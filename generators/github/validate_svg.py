@@ -17,6 +17,9 @@ SVGS = [
     "activity.svg",
     "activity-static.svg",
     "activity-light.svg",
+    "languages.svg",
+    "languages-static.svg",
+    "languages-light.svg",
 ]
 
 

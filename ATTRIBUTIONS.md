@@ -69,8 +69,13 @@ The following are **entirely original** works created for this profile:
 - `assets/github/activity-light.svg` — Static light mode engineering activity variant
 - `generators/github/fetch_contributions.py` — Real public GitHub contributions parser script
 - `generators/github/generate_activity_svg.py` — Engineering Activity Visualizer SVG generator script
-- `generators/github/validate_svg.py` — Activity SVG validation script
-- `.github/workflows/refresh-contributions.yml` — Automated contribution refresh and SVG generation workflow
+- `assets/github/languages.svg` — Custom animated Language Signal horizontal bar graph SVG (SMIL)
+- `assets/github/languages-static.svg` — Static dark language signal variant
+- `assets/github/languages-light.svg` — Static light mode language signal variant
+- `generators/github/fetch_languages.py` — Real repository language distribution parser script
+- `generators/github/generate_languages_svg.py` — Language Signal SVG generator script
+- `generators/github/validate_svg.py` — Activity and Language SVG validation script
+- `.github/workflows/refresh-contributions.yml` — Automated telemetry refresh and SVG generation workflow
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling
