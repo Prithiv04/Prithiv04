@@ -292,9 +292,9 @@ def build_currently_engineering_svg(theme: dict, animated: bool = True) -> str:
     MODELS &#160;→&#160; AGENTS &#160;→&#160; DATA &#160;→&#160; SYSTEMS &#160;→&#160; DEPLOYMENT
   </text>
 
-  <text x="{w / 2.0:.1f}" y="308" font-family="{FONT_SANS}" font-size="11.5" font-style="italic"
-    fill="{theme['text_dim']}" text-anchor="middle" letter-spacing="0.2">
-    Building intelligent software that can reason, use tools, process evidence, and operate as reliable systems.
+  <text x="{w / 2.0:.1f}" y="308" font-family="{FONT_SANS}" font-size="11" font-style="italic"
+    fill="{theme['text_dim']}" text-anchor="middle" letter-spacing="0.1">
+    Building intelligent systems that reason over data, orchestrate tools, validate outputs, and operate reliably in production environments.
   </text>
 </svg>"""
 
