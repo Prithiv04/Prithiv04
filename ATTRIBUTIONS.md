@@ -57,6 +57,13 @@ The following are **entirely original** works created for this profile:
 - `assets/hero/whoami-editorial-static.svg` — Static dark editorial whoami variant
 - `assets/hero/whoami-editorial-light.svg` — Static light mode editorial whoami variant
 - `generators/hero/generate_whoami.py` — Editorial WhoAmI typography SVG generator script
+- `assets/sections/selected-recognition.svg` — Custom Career Milestone Timeline SVG (SMIL)
+- `assets/sections/selected-recognition-static.svg` — Static dark milestone timeline variant
+- `assets/sections/selected-recognition-light.svg` — Static light mode milestone timeline variant
+- `assets/sections/currently-engineering.svg` — Custom Directional Engineering Focus Map SVG (SMIL)
+- `assets/sections/currently-engineering-static.svg` — Static dark engineering focus map variant
+- `assets/sections/currently-engineering-light.svg` — Static light mode engineering focus map variant
+- `generators/sections/generate_sections.py` — Milestones and engineering focus map SVG generator script
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling

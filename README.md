@@ -207,31 +207,10 @@ TOKENIZATION  →  SMART CONTRACTS
 
 ## `> SELECTED RECOGNITION`
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `01`
-**WEB3 CONFERENCE HACKATHON**<br>
-<sub>`WINNER` &nbsp;·&nbsp; DELHI &nbsp;·&nbsp; 2024</sub>
-
-</td>
-<td width="33%" valign="top">
-
-### `02`
-**CARDANO HACKATHON ASIA**<br>
-<sub>`TOP 5` &nbsp;·&nbsp; ASIA REGION</sub>
-
-</td>
-<td width="34%" valign="top">
-
-### `03`
-**NASA SPACE APPS CHALLENGE**<br>
-<sub>`FINALIST`</sub>
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sections/selected-recognition.svg">
+  <img src="./assets/sections/selected-recognition-light.svg" alt="Selected Recognition: Web3 Conference Hackathon Winner, Cardano Hackathon Asia Top 5, NASA Space Apps Challenge Finalist" width="100%">
+</picture>
 
 <br>
 
@@ -239,35 +218,10 @@ TOKENIZATION  →  SMART CONTRACTS
 
 ## `> CURRENTLY ENGINEERING`
 
-<table>
-<tr>
-<td width="22%" valign="top"><code>BUILDING</code></td>
-<td><strong>AI AGENTS</strong> &nbsp;·&nbsp; <strong>MULTI-AGENT SYSTEMS</strong> &nbsp;·&nbsp; <strong>LLM APPLICATIONS</strong></td>
-</tr>
-<tr>
-<td valign="top"><code>ENGINEERING</code></td>
-<td><strong>RAG</strong> &nbsp;·&nbsp; <strong>VECTOR SEARCH</strong> &nbsp;·&nbsp; <strong>TOOL CALLING</strong> &nbsp;·&nbsp; <strong>MODEL EVALUATION</strong></td>
-</tr>
-<tr>
-<td valign="top"><code>SYSTEMS</code></td>
-<td><strong>CLOUD DEPLOYMENT</strong> &nbsp;·&nbsp; <strong>REST APIs</strong> &nbsp;·&nbsp; <strong>BACKEND ARCHITECTURE</strong> &nbsp;·&nbsp; <strong>DATA PIPELINES</strong></td>
-</tr>
-<tr>
-<td valign="top"><code>EXPLORING</code></td>
-<td>ADAPTIVE ML &nbsp;·&nbsp; REAL-TIME INFERENCE &nbsp;·&nbsp; EDGE AI</td>
-</tr>
-<tr>
-<td valign="top"><code>OPEN TO</code></td>
-<td><strong>AI/ML INTERNSHIPS</strong> &nbsp;·&nbsp; <strong>RESEARCH</strong> &nbsp;·&nbsp; <strong>OPEN-SOURCE COLLABORATION</strong></td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <code>MODELS</code> &nbsp;→&nbsp; <code>AGENTS</code> &nbsp;→&nbsp; <code>DATA</code> &nbsp;→&nbsp; <code>SYSTEMS</code> &nbsp;→&nbsp; <code>DEPLOYMENT</code><br>
-  <sub><em>Building intelligent software that can reason, use tools, process evidence, and operate as reliable systems.</em></sub>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sections/currently-engineering.svg">
+  <img src="./assets/sections/currently-engineering-light.svg" alt="Currently Engineering: Trajectory from Building to Engineering, Systems, Exploring, and Open Collaborations" width="100%">
+</picture>
 
 <br>
 
