@@ -41,6 +41,10 @@ The following are **entirely original** works created for this profile:
 - `assets/hero/ascii-portrait-static.svg` — Static dark variant
 - `assets/hero/ascii-portrait-light.svg` — Static light mode variant
 - `generators/hero/generate_ascii_portrait.py` — Reusable PIL/NumPy ASCII generator script
+- `assets/hero/terminal-profile.svg` — Custom animated Terminal Profile Dossier (SMIL)
+- `assets/hero/terminal-profile-static.svg` — Static dark profile dossier variant
+- `assets/hero/terminal-profile-light.svg` — Static light mode profile dossier variant
+- `generators/hero/generate_terminal_profile.py` — Terminal profile SVG generator script
 - `assets/hero/ai-console.svg` — Custom animated AI Engineering Console (SMIL)
 - `assets/hero/ai-console-light.svg` — Light mode variant
 - `assets/footer/terminal-footer.svg` — Terminal footer animation

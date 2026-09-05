@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="826" viewBox="0 0 768 826" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Prithiv — Terminal Profile Dossier">
+  <title>Prithiv — Terminal Profile Dossier</title>
+  <desc>Personal telemetry, education, projects, achievements and operational status in a matching terminal window</desc>
+
+  <defs>
+    <linearGradient id="profileBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111722"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Frame Background & Border -->
+  <rect width="768" height="826" rx="10" fill="url(#profileBg)"/>
+  <rect x="0.5" y="0.5" width="767.0" height="825.0" rx="9.5" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Terminal Title Bar -->
+  <rect x="0" y="0" width="768" height="38" rx="10" fill="#161b22"/>
+  <rect x="0" y="28" width="768" height="10" fill="#161b22"/>
+  <line x1="0" y1="38" x2="768" y2="38" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window Control Dots -->
+  <circle cx="24" cy="19" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="19" r="5" fill="#3fb950"/>
+
+  <!-- Title Bar Labels -->
+  <text x="384.0" y="23" fill="#7d8590" font-size="11" text-anchor="middle" letter-spacing="2">PRITHIV // PROFILE DOSSIER</text>
+  <text x="744.0" y="23" fill="#58a6ff" font-size="10" text-anchor="end">profile.sh</text>
+
+  <!-- 1. Command Prompt Section -->
+  <g id="sec-prompt">
+    <animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.45s" fill="freeze"/>
+    <text x="32.0" y="81" fill="#58a6ff" font-size="12" font-weight="600">prithiv@ai-core</text>
+    <text x="146.0" y="81" fill="#7d8590" font-size="12">:</text>
+    <text x="156.0" y="81" fill="#39c5cf" font-size="12">~</text>
+    <text x="170.0" y="81" fill="#c9d1d9" font-size="12">$ ./profile.sh --verbose --node-id=01</text>
+    <rect x="420" y="70" width="7" height="13" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.0s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="32.0" y1="102" x2="736.0" y2="102" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- 2. System Identity & Core Role -->
+  <g id="sec-identity">
+    <animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.45s" fill="freeze"/>
+    <!-- Section Title -->
+    <text x="32.0" y="126" fill="#58a6ff" font-size="10" letter-spacing="2" font-weight="700">▶ SYSTEM IDENTITY &amp; CORE FOCUS</text>
+    
+    <!-- Identity Rows -->
+    <text x="44.0" y="152" fill="#7d8590" font-size="11">NAME</text>
+    <text x="142.0" y="152" fill="#f0f6fc" font-size="12" font-weight="700" letter-spacing="1">PRITHIV</text>
+
+    <text x="44.0" y="174" fill="#7d8590" font-size="11">ROLE</text>
+    <text x="142.0" y="174" fill="#c9d1d9" font-size="11.5">AI/ML Engineer &amp; Full-Stack Developer</text>
+
+    <text x="44.0" y="196" fill="#7d8590" font-size="11">EDUCATION</text>
+    <text x="142.0" y="196" fill="#c9d1d9" font-size="11.5">B.Tech Information Technology</text>
+    <text x="142.0" y="214" fill="#7d8590" font-size="10.5">Chennai Institute of Technology · CGPA: 8.5+</text>
+
+    <text x="44.0" y="238" fill="#7d8590" font-size="11">DOMAINS</text>
+    <text x="142.0" y="238" fill="#39c5cf" font-size="11">Generative AI · Multi-Agent Systems · LLMs · Computer Vision</text>
+    <text x="142.0" y="256" fill="#7d8590" font-size="10.5">Full Stack Architecture · Cloud Deployment · Systems Security</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="32.0" y1="274" x2="736.0" y2="274" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- 3. Key Deployed Systems -->
+  <g id="sec-projects">
+    <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.45s" fill="freeze"/>
+    <text x="32.0" y="298" fill="#39c5cf" font-size="10" letter-spacing="2" font-weight="700">▶ KEY PRODUCTION &amp; RESEARCH SYSTEMS</text>
+
+    <!-- Project 1: SciVerify -->
+    <rect x="32.0" y="312" width="704.0" height="54" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="46.0" y="333" fill="#f0f6fc" font-size="11.5" font-weight="700">[01] SciVerify</text>
+    <text x="157.0" y="333" fill="#7d8590" font-size="10">· Multi-Source Research Fact-Checking</text>
+    <text x="46.0" y="353" fill="#c9d1d9" font-size="10.5">Automated claims verification pipeline using LLM agents &amp; cross-paper citations</text>
+
+    <!-- Project 2: EraseXpertz -->
+    <rect x="32.0" y="374" width="704.0" height="54" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="46.0" y="395" fill="#f0f6fc" font-size="11.5" font-weight="700">[02] EraseXpertz</text>
+    <text x="172.0" y="395" fill="#7d8590" font-size="10">· NIST 800-88 Data Sanitization</text>
+    <text x="46.0" y="415" fill="#c9d1d9" font-size="10.5">Enterprise secure data wiping tool with cryptographic tamper-evident audit logs</text>
+
+    <!-- Project 3: Kshitij -->
+    <rect x="32.0" y="436" width="704.0" height="54" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="46.0" y="457" fill="#f0f6fc" font-size="11.5" font-weight="700">[03] Kshitij</text>
+    <text x="137.0" y="457" fill="#7d8590" font-size="10">· Satellite Crop Health &amp; Disaster Intelligence</text>
+    <text x="46.0" y="477" fill="#c9d1d9" font-size="10.5">Multi-spectral earth observation analytics for predictive drought &amp; crop yields</text>
+
+    <!-- Project 4: T-BillFlow -->
+    <rect x="32.0" y="498" width="704.0" height="54" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="46.0" y="519" fill="#f0f6fc" font-size="11.5" font-weight="700">[04] T-BillFlow</text>
+    <text x="157.0" y="519" fill="#7d8590" font-size="10">· Financial Settlement &amp; Auction Engine</text>
+    <text x="46.0" y="539" fill="#c9d1d9" font-size="10.5">High-throughput Treasury Bill auction matching engine with zero-loss audit ledger</text>
+  </g>
+
+  <!-- Divider 3 -->
+  <line x1="32.0" y1="562" x2="736.0" y2="562" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- 4. Verified Accolades & Hackathons -->
+  <g id="sec-accolades">
+    <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.45s" fill="freeze"/>
+    <text x="32.0" y="586" fill="#f0883e" font-size="10" letter-spacing="2" font-weight="700">▶ VERIFIED ACCOLADES &amp; COMPETITIONS</text>
+
+    <!-- Hackathon 1 -->
+    <text x="44.0" y="612" fill="#ffbd2e" font-size="11">🏆 WINNER</text>
+    <text x="162.0" y="612" fill="#f0f6fc" font-size="11" font-weight="600">Web3 Conference Hackathon</text>
+    <text x="162.0" y="628" fill="#7d8590" font-size="10">1st Place — Decentralized identity &amp; automated verification systems</text>
+
+    <!-- Hackathon 2 -->
+    <text x="44.0" y="654" fill="#39c5cf" font-size="11">⚡ TOP 5</text>
+    <text x="162.0" y="654" fill="#f0f6fc" font-size="11" font-weight="600">Cardano Hackathon Asia</text>
+    <text x="162.0" y="670" fill="#7d8590" font-size="10">Regional finalist — Autonomous smart-contract agent architecture</text>
+
+    <!-- Hackathon 3 -->
+    <text x="44.0" y="696" fill="#bc8cff" font-size="11">🛰️ FINALIST</text>
+    <text x="162.0" y="696" fill="#f0f6fc" font-size="11" font-weight="600">NASA Space Apps Challenge</text>
+    <text x="162.0" y="712" fill="#7d8590" font-size="10">Global Nominee / Finalist — Remote sensing satellite data model</text>
+  </g>
+
+  <!-- Divider 4 -->
+  <line x1="32.0" y1="728" x2="736.0" y2="728" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- 5. Operational Node Status -->
+  <g id="sec-status">
+    <animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.45s" fill="freeze"/>
+    <rect x="32.0" y="742" width="704.0" height="38" rx="6" fill="#161b22" stroke="#3fb950" stroke-width="1" stroke-opacity="0.6"/>
+    <circle cx="48.0" cy="761" r="5" fill="#3fb950"/>
+    <text x="62.0" y="765" fill="#3fb950" font-size="11" font-weight="700" letter-spacing="1">CURRENT STATUS: OPEN TO INTERNSHIPS</text>
+    <text x="720.0" y="765" fill="#7d8590" font-size="10.5" text-anchor="end">AI/ML · Research · Full-Stack</text>
+  </g>
+
+  <!-- Footer Status Bar -->
+  <line x1="0" y1="792.0" x2="768" y2="792.0" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="32" cy="809.0" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <text x="44" y="813.0" fill="#c9d1d9" font-size="10.5" letter-spacing="1">TELEMETRY: <tspan fill="#39c5cf">ACTIVE</tspan> · LATENCY: &lt;12ms</text>
+
+  <text x="744.0" y="813.0" fill="#7d8590" font-size="10" text-anchor="end">
+    zsh 5.9 · UTF-8 · ENV: <tspan fill="#3fb950">PRODUCTION</tspan>
+  </text>
+</svg>

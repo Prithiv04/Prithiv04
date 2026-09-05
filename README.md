@@ -1,14 +1,34 @@
+<h1 align="center">PRITHIV</h1>
+<p align="center">
+  <strong>AI/ML ENGINEER &nbsp;|&nbsp; FULL-STACK DEVELOPER</strong><br>
+  <em>Autonomous Intelligent Systems &nbsp;·&nbsp; Enterprise Software Architecture &nbsp;·&nbsp; Chennai, India</em>
+</p>
+
+---
+
 <div align="center">
+<table border="0" cellpadding="0" cellspacing="8" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/ascii-portrait.svg">
-    <img src="./assets/hero/ascii-portrait-light.svg" alt="Prithiv — ASCII Portrait // AI Engineering System Identity" width="100%" style="max-width: 768px;">
+    <img src="./assets/hero/ascii-portrait-light.svg" alt="PRITHIV // ASCII Portrait" width="100%">
   </picture>
+</td>
+<td width="50%" valign="top" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/terminal-profile.svg">
+    <img src="./assets/hero/terminal-profile-light.svg" alt="PRITHIV // Terminal Profile Dossier" width="100%">
+  </picture>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
 <p align="center">
-  <code>IDENTITY</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>ENGINEERING</code> &nbsp;→&nbsp; <code>SOFTWARE</code> &nbsp;→&nbsp; <code>SYSTEMS</code> &nbsp;→&nbsp; <code>DEPLOYMENT</code>
+  <code>IDENTITY &amp; TELEMETRY</code> &nbsp;──►&nbsp; <code>AI SUBSYSTEMS &amp; LIVE CAPABILITIES</code>
 </p>
 
 <br>
@@ -17,12 +37,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/ai-console.svg">
   <img src="./assets/hero/ai-console-light.svg" alt="PRITHIV // AI Engineering System Console" width="100%">
 </picture>
-
-<br>
-
-<p align="center">
-  <em>AI/ML Engineer &nbsp;·&nbsp; Software Systems Builder &nbsp;·&nbsp; Chennai, India</em>
-</p>
 
 <br>
 
