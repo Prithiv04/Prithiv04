@@ -29,6 +29,7 @@ The following open-source projects were studied for their architecture, animatio
 | [doyoon530/terminal-identity](https://github.com/doyoon530/terminal-identity) | Terminal identity + live GitHub data patterns | MIT |
 | [GitHub/READMEForge](https://github.com/Nicconike/READMEForge) | SVG component generation, component APIs | MIT |
 | [devicons/devicon](https://github.com/devicons/devicon) | Developer logos (SVG/font variants) | permissive |
+| [n1shanthb/n1shanthb](https://github.com/n1shanthb/n1shanthb) | ASCII portrait SVG styling and textLength spacing concept | MIT |
 
 ---
 
@@ -36,6 +37,10 @@ The following open-source projects were studied for their architecture, animatio
 
 The following are **entirely original** works created for this profile:
 
+- `assets/hero/ascii-portrait.svg` — Custom animated terminal ASCII portrait (SMIL) generated from `hhgoa.jpeg`
+- `assets/hero/ascii-portrait-static.svg` — Static dark variant
+- `assets/hero/ascii-portrait-light.svg` — Static light mode variant
+- `generators/hero/generate_ascii_portrait.py` — Reusable PIL/NumPy ASCII generator script
 - `assets/hero/ai-console.svg` — Custom animated AI Engineering Console (SMIL)
 - `assets/hero/ai-console-light.svg` — Light mode variant
 - `assets/footer/terminal-footer.svg` — Terminal footer animation

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="826" viewBox="0 0 768 826" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Prithiv — ASCII portrait and AI engineering system identity">
+  <title>Prithiv — ASCII portrait and AI engineering system identity</title>
+  <desc>Personal ASCII portrait of Prithiv generated from hhgoa.jpeg inside the AI Engineering System terminal frame</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111722"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Frame Background & Border -->
+  <rect width="768" height="826" rx="10" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="767.0" height="825.5" rx="9.5" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Terminal Title Bar -->
+  <rect x="0" y="0" width="768" height="38" rx="10" fill="#161b22"/>
+  <rect x="0" y="28" width="768" height="10" fill="#161b22"/>
+  <line x1="0" y1="38" x2="768" y2="38" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="19" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="19" r="5" fill="#3fb950"/>
+
+  <!-- Header Labels -->
+  <text x="384.0" y="23" fill="#7d8590" font-size="11" text-anchor="middle" letter-spacing="2">PRITHIV // AI ENGINEERING SYSTEM</text>
+  <text x="744.0" y="23" fill="#58a6ff" font-size="10" text-anchor="end">portrait.exe</text>
+
+  <!-- ASCII Portrait Content -->
+  <text xml:space="preserve" x="22.0" y="63.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                                                                                      </text>
+  <text xml:space="preserve" x="22.0" y="74.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                         .                                                            </text>
+  <text xml:space="preserve" x="22.0" y="86.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                       ..     ..                                                      </text>
+  <text xml:space="preserve" x="22.0" y="97.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                             .                                                                        </text>
+  <text xml:space="preserve" x="22.0" y="109.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                . .                                                                   </text>
+  <text xml:space="preserve" x="22.0" y="120.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                        ...                                       .                                   </text>
+  <text xml:space="preserve" x="22.0" y="132.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                       .    .                                                                         </text>
+  <text xml:space="preserve" x="22.0" y="143.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                       .                                                                              </text>
+  <text xml:space="preserve" x="22.0" y="155.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                        ..     ..                    .                                                </text>
+  <text xml:space="preserve" x="22.0" y="166.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                          .       ..                                                                  </text>
+  <text xml:space="preserve" x="22.0" y="178.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                             .     :-                                                                 </text>
+  <text xml:space="preserve" x="22.0" y="189.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                    .:.                                                               </text>
+  <text xml:space="preserve" x="22.0" y="201.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                      .                                                               </text>
+  <text xml:space="preserve" x="22.0" y="212.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                              ..                                                                      </text>
+  <text xml:space="preserve" x="22.0" y="224.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                .           .                                                         </text>
+  <text xml:space="preserve" x="22.0" y="235.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                      .          ..   ..  :.    .                 .                                   </text>
+  <text xml:space="preserve" x="22.0" y="247.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                   :-.    -:  .--:::..  ..                                            </text>
+  <text xml:space="preserve" x="22.0" y="258.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                 .::: .. .. :. .---=-:. ..                                            </text>
+  <text xml:space="preserve" x="22.0" y="270.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                 =*++.:=*+=+*+ :::..::.                                               </text>
+  <text xml:space="preserve" x="22.0" y="281.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                 --===:-===-:. ......:..                                              </text>
+  <text xml:space="preserve" x="22.0" y="293.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                -=+*%@-.         .-=++==-:.                                           </text>
+  <text xml:space="preserve" x="22.0" y="304.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                               .*%%###=.       ..-=+****+-:.                                          </text>
+  <text xml:space="preserve" x="22.0" y="316.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                      .       :=**#%@%%#*==-----==+###*+=:......:::::::::::..                         </text>
+  <text xml:space="preserve" x="22.0" y="327.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                             :*%##*@@@@%*+-::---+*#@@#*+=--:::::::---:-.:=#%%+                        </text>
+  <text xml:space="preserve" x="22.0" y="339.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                      .  -    :#%#+%%*=-=:  ::..+#@@@#*+++:..    -. .::   +#                          </text>
+  <text xml:space="preserve" x="22.0" y="350.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                      . :+:*- =@@@@@@%###*=--::=#%@%@%#**=::.:::---:.:-   *+                          </text>
+  <text xml:space="preserve" x="22.0" y="362.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                        :*#@+ =@@@@@@@@@@%#*+*#%@@%@@@%*++----=====+===. :%:                          </text>
+  <text xml:space="preserve" x="22.0" y="373.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                         +%#::*@@@@@@@@@@@@@@@@@@@@@@@@#+=++==+++***++=: *#                           </text>
+  <text xml:space="preserve" x="22.0" y="385.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                         .%@+=*@@@@@@@@@@@@@@@@@@@@@@@@%*==+++++******+==+                            </text>
+  <text xml:space="preserve" x="22.0" y="396.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                          *@@%+@@@@@@@@@@@@@@@%@@@@@@@@@#*++=++***##**++-                             </text>
+  <text xml:space="preserve" x="22.0" y="408.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                          .@@@#@@@@@@@@@@@@@@%@@@%%%@@@#*==+*==++***++==:                             </text>
+  <text xml:space="preserve" x="22.0" y="419.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                           :*@%%@@@@@@@@@@@@@@@@#=*%@%+==-::===++**++==-                              </text>
+  <text xml:space="preserve" x="22.0" y="431.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                               *@@@@@@@@@@@@@@@@@@@@%#+=====+++=++++==-.                              </text>
+  <text xml:space="preserve" x="22.0" y="442.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                           .   :@@@@@@@@@@@@@@@@%###=-+=-::-==++=====-:                               </text>
+  <text xml:space="preserve" x="22.0" y="454.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                *@@@@@@@@@%#***%#***++++-:.:...:-===-:                                </text>
+  <text xml:space="preserve" x="22.0" y="465.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                .%@@@@@@@%*:.:==++++==-::....   :==--.                                </text>
+  <text xml:space="preserve" x="22.0" y="477.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                 :%@@@@@@@#*#%@@@@@%#**+=---=---==--.                                 </text>
+  <text xml:space="preserve" x="22.0" y="488.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                  *%#%@@@@%@@@@@%#*=-------====-=--.                                  </text>
+  <text xml:space="preserve" x="22.0" y="500.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                                . +@%##%@@@@@@@@%#***++========--:                                    </text>
+  <text xml:space="preserve" x="22.0" y="511.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                               :. +@@@#*##@@@@@@@@@@%%##**++==-..                                     </text>
+  <text xml:space="preserve" x="22.0" y="523.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                              :-. *@@@@@#+=*%%@@@@%#*++++++=-. ::                                     </text>
+  <text xml:space="preserve" x="22.0" y="534.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                            ::-:. #@@@@@@%+. -=***=-----:::   :-.                                     </text>
+  <text xml:space="preserve" x="22.0" y="546.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                          ::::::: -@@@@@@%%#-   ...          :--                                      </text>
+  <text xml:space="preserve" x="22.0" y="557.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                     .:. ::..::::. +@@@@@@%%#*=-.         .:-=-:                                      </text>
+  <text xml:space="preserve" x="22.0" y="569.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                                 ..:::.  .  ...:::  =@@@@@%%%###**+===-:----=--:                                      </text>
+  <text xml:space="preserve" x="22.0" y="580.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                              ..::.          ......  :*%%%%%%##***+++=---------:                                      </text>
+  <text xml:space="preserve" x="22.0" y="592.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                           .:...               ....    -+**####*++======-------:                                      </text>
+  <text xml:space="preserve" x="22.0" y="603.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                       .:-::.                   ...     :==+****+==------------. --                                   </text>
+  <text xml:space="preserve" x="22.0" y="615.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                    ..:-::.              .              .:==++**+==------===---. #*:.                                 </text>
+  <text xml:space="preserve" x="22.0" y="626.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">                 .:--::...               .              :--=++++++======+++====:*@%==-                                </text>
+  <text xml:space="preserve" x="22.0" y="638.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">              .::-::......                               *++++++++++==+++*++*+=#@@@#=%:                               </text>
+  <text xml:space="preserve" x="22.0" y="649.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">          .:::::........                                 :%%@@#**++========++*@@@@@@=%#                               </text>
+  <text xml:space="preserve" x="22.0" y="661.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">       .::::..........                                    -%@@@@@@@%%##**##%@@@@@@@@*#@=                              </text>
+  <text xml:space="preserve" x="22.0" y="672.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">    .:--::::.........                                      =%%@@@@@@@@@@@@@@@@@@@@@@##@#.                             </text>
+  <text xml:space="preserve" x="22.0" y="684.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">   :====---:.   .                                           *##@@@@@@@@@@@@@@@@@%@@@%%@@-                             </text>
+  <text xml:space="preserve" x="22.0" y="695.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">  :===------:.                                               ###@@@@@@@@@@@@@@@@%@@@%@@@*.                            </text>
+  <text xml:space="preserve" x="22.0" y="707.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing"> .====-==----::.                                             :%##@@@@@@@@@@@@@@%@@@@%@@@#-.                           </text>
+  <text xml:space="preserve" x="22.0" y="718.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing"> -====-----:::::.                                             =%#%@@@@@@@@@@@@%@@@@@@@@@@=-                           </text>
+  <text xml:space="preserve" x="22.0" y="730.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">:=------::::.::...                                             #%%%@@@@@@@@@@@%@@@@@@@@@@++-                          </text>
+  <text xml:space="preserve" x="22.0" y="741.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">---------::::::...                                             .%%%@@@@@@@@@@@%@@@@@@@@@@*+*                          </text>
+  <text xml:space="preserve" x="22.0" y="753.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">===--------:::::...                                             -%#%@@@@@@@@@@%@@@@@@@@@@#+%:                         </text>
+  <text xml:space="preserve" x="22.0" y="764.5" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">====------::.:.....                                              +%#@@@@@@@@@@%%@@@@@@@@@%#@*                         </text>
+  <text xml:space="preserve" x="22.0" y="776.0" fill="#c9d1d9" font-size="9.8" textLength="724.0" lengthAdjust="spacing">==----::::::......                                                #%%@@@@@@@@@%%@@@@@@@@@@#@%.                        </text>
+
+
+
+  <!-- Footer Status Bar -->
+  <line x1="0" y1="792.5" x2="768" y2="792.5" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="32" cy="809.5" r="4" fill="#3fb950"/>
+  <text x="44" y="813.5" fill="#c9d1d9" font-size="10.5" letter-spacing="1">IDENTITY: <tspan fill="#3fb950">PRITHIV</tspan> · AI/ML SYSTEMS</text>
+  
+
+  <text x="744.0" y="813.5" fill="#7d8590" font-size="10" text-anchor="end">
+    Chennai, India · STATUS: <tspan fill="#3fb950">ONLINE</tspan>
+  </text>
+</svg>

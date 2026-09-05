@@ -1,3 +1,18 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/ascii-portrait.svg">
+    <img src="./assets/hero/ascii-portrait-light.svg" alt="Prithiv — ASCII Portrait // AI Engineering System Identity" width="100%" style="max-width: 768px;">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <code>IDENTITY</code> &nbsp;→&nbsp; <code>AI / ML</code> &nbsp;→&nbsp; <code>ENGINEERING</code> &nbsp;→&nbsp; <code>SOFTWARE</code> &nbsp;→&nbsp; <code>SYSTEMS</code> &nbsp;→&nbsp; <code>DEPLOYMENT</code>
+</p>
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/ai-console.svg">
   <img src="./assets/hero/ai-console-light.svg" alt="PRITHIV // AI Engineering System Console" width="100%">
