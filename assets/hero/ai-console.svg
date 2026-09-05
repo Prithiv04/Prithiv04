@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="PRITHIV // AI Engineering System Console">
+  <defs>
+    <!-- Clip paths for reveal animations -->
+    <clipPath id="clip-title">
+      <rect x="0" y="0" width="0" height="30">
+        <animate attributeName="width" from="0" to="900" dur="0.6s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line1">
+      <rect x="0" y="0" width="0" height="18">
+        <animate attributeName="width" from="0" to="900" dur="0.5s" begin="1.0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line2">
+      <rect x="0" y="0" width="0" height="18">
+        <animate attributeName="width" from="0" to="900" dur="0.5s" begin="1.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line3">
+      <rect x="0" y="0" width="0" height="18">
+        <animate attributeName="width" from="0" to="900" dur="0.5s" begin="1.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-tagline">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width" from="0" to="900" dur="0.7s" begin="2.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-caps">
+      <rect x="0" y="0" width="0" height="24">
+        <animate attributeName="width" from="0" to="900" dur="0.6s" begin="3.0s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-topo">
+      <rect x="0" y="0" width="0" height="120">
+        <animate attributeName="width" from="0" to="900" dur="0.8s" begin="3.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-status">
+      <rect x="0" y="0" width="0" height="24">
+        <animate attributeName="width" from="0" to="900" dur="0.6s" begin="4.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <!-- Glow filter for accent elements -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle scanline gradient -->
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.03"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="420" rx="10" fill="#0d1117"/>
+
+  <!-- Scanline overlay (very subtle) -->
+  <rect width="900" height="420" rx="10" fill="url(#scanline-grad)" opacity="0.4"/>
+
+  <!-- Border frame -->
+  <rect x="1" y="1" width="898" height="418" rx="9" fill="none" stroke="#21262d" stroke-width="1"/>
+  <!-- Inner accent border top -->
+  <line x1="1" y1="38" x2="899" y2="38" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Top bar dots -->
+  <circle cx="22" cy="19" r="5" fill="#ff5f57"/>
+  <circle cx="40" cy="19" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="19" r="5" fill="#28c840"/>
+
+  <!-- Top bar label -->
+  <text x="450" y="24" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="3">AI ENGINEERING CONSOLE</text>
+
+  <!-- Top right system ID -->
+  <text x="875" y="24" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#3fb950" text-anchor="end" letter-spacing="1">SYS-01</text>
+
+  <!-- === MAIN CONTENT AREA === -->
+
+  <!-- PRITHIV title (with clip reveal) -->
+  <g clip-path="url(#clip-title)">
+    <text x="36" y="75" font-family="'SF Mono', 'Fira Code', monospace" font-size="26" font-weight="700" fill="#e6edf3" letter-spacing="6">PRITHIV</text>
+    <text x="210" y="75" font-family="'SF Mono', 'Fira Code', monospace" font-size="26" font-weight="300" fill="#58a6ff" letter-spacing="2"> // AI ENGINEERING SYSTEM</text>
+  </g>
+
+  <!-- Horizontal rule under title -->
+  <line x1="36" y1="84" x2="864" y2="84" stroke="#21262d" stroke-width="1">
+    <animate attributeName="stroke-opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
+  </line>
+
+  <!-- Boot sequence lines -->
+  <g clip-path="url(#clip-line1)">
+    <text x="36" y="108" font-family="'SF Mono', 'Fira Code', monospace" font-size="12" fill="#8b949e">
+      <tspan fill="#3fb950">$</tspan>  initialize_profile --mode=ai-engineering
+    </text>
+  </g>
+
+  <g clip-path="url(#clip-line2)">
+    <text x="36" y="126" font-family="'SF Mono', 'Fira Code', monospace" font-size="12" fill="#3fb950">
+      <tspan fill="#58a6ff">&gt;</tspan>  [OK] Loading identity... AI/ML ENGINEER · SOFTWARE SYSTEMS BUILDER
+    </text>
+  </g>
+
+  <g clip-path="url(#clip-line3)">
+    <text x="36" y="144" font-family="'SF Mono', 'Fira Code', monospace" font-size="12" fill="#3fb950">
+      <tspan fill="#58a6ff">&gt;</tspan>  [OK] Location: Chennai, India · Status: OPEN TO INTERNSHIPS
+    </text>
+  </g>
+
+  <!-- Separator -->
+  <line x1="36" y1="158" x2="864" y2="158" stroke="#21262d" stroke-width="1">
+    <animate attributeName="stroke-opacity" from="0" to="1" dur="0.3s" begin="2.0s" fill="freeze"/>
+  </line>
+
+  <!-- Tagline block (with clip reveal) -->
+  <g clip-path="url(#clip-tagline)">
+    <text x="36" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" fill="#c9d1d9">
+      I build complete intelligent systems — from
+    </text>
+    <text x="36" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" fill="#c9d1d9">
+      <tspan fill="#58a6ff" font-weight="600">models</tspan>  ·  <tspan fill="#58a6ff" font-weight="600">agents</tspan>  ·  <tspan fill="#58a6ff" font-weight="600">applications</tspan>  ·  <tspan fill="#58a6ff" font-weight="600">infrastructure</tspan>  ·  <tspan fill="#58a6ff" font-weight="600">real-world products</tspan>
+    </text>
+  </g>
+
+  <!-- Capability row (caps labels) -->
+  <g clip-path="url(#clip-caps)">
+    <!-- ML -->
+    <rect x="36" y="220" width="72" height="22" rx="3" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="72" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff" text-anchor="middle" letter-spacing="1.5">ML</text>
+    <!-- GENAI -->
+    <rect x="120" y="220" width="72" height="22" rx="3" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="156" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff" text-anchor="middle" letter-spacing="1.5">GENAI</text>
+    <!-- AGENTS -->
+    <rect x="204" y="220" width="80" height="22" rx="3" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="244" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff" text-anchor="middle" letter-spacing="1.5">AGENTS</text>
+    <!-- VISION -->
+    <rect x="296" y="220" width="80" height="22" rx="3" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="336" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff" text-anchor="middle" letter-spacing="1.5">VISION</text>
+    <!-- NLP -->
+    <rect x="388" y="220" width="72" height="22" rx="3" fill="none" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="424" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#58a6ff" text-anchor="middle" letter-spacing="1.5">NLP</text>
+    <!-- SYSTEMS -->
+    <rect x="472" y="220" width="88" height="22" rx="3" fill="none" stroke="#8b949e" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="516" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">SYSTEMS</text>
+    <!-- CLOUD -->
+    <rect x="572" y="220" width="72" height="22" rx="3" fill="none" stroke="#8b949e" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="608" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">CLOUD</text>
+    <!-- SECURITY -->
+    <rect x="656" y="220" width="90" height="22" rx="3" fill="none" stroke="#8b949e" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="701" y="235" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">SECURITY</text>
+  </g>
+
+  <!-- === TOPOLOGY DIAGRAM === -->
+  <g clip-path="url(#clip-topo)">
+    <!-- Topology label -->
+    <text x="36" y="268" font-family="'SF Mono', 'Fira Code', monospace" font-size="9" fill="#8b949e" letter-spacing="3">SYSTEM TOPOLOGY</text>
+
+    <!-- Nodes -->
+    <!-- DATA -->
+    <circle cx="100" cy="320" r="28" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" begin="4.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="100" y="317" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#58a6ff" text-anchor="middle" letter-spacing="1">DATA</text>
+    <text x="100" y="329" font-family="'SF Mono', 'Fira Code', monospace" font-size="7" fill="#8b949e" text-anchor="middle">INPUT</text>
+
+    <!-- MODELS -->
+    <circle cx="240" cy="295" r="30" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" begin="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="240" y="292" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#58a6ff" text-anchor="middle" letter-spacing="1">MODELS</text>
+    <text x="240" y="304" font-family="'SF Mono', 'Fira Code', monospace" font-size="7" fill="#8b949e" text-anchor="middle">AI/ML</text>
+
+    <!-- AGENTS -->
+    <circle cx="390" cy="310" r="30" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" begin="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="390" y="307" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#58a6ff" text-anchor="middle" letter-spacing="1">AGENTS</text>
+    <text x="390" y="319" font-family="'SF Mono', 'Fira Code', monospace" font-size="7" fill="#8b949e" text-anchor="middle">REASONING</text>
+
+    <!-- APPLICATION -->
+    <circle cx="540" cy="295" r="34" fill="#0d1117" stroke="#3fb950" stroke-width="1.5" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" begin="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="540" y="292" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#3fb950" text-anchor="middle" letter-spacing="0.5">APPLICATION</text>
+    <text x="540" y="304" font-family="'SF Mono', 'Fira Code', monospace" font-size="7" fill="#8b949e" text-anchor="middle">FULLSTACK</text>
+
+    <!-- CLOUD -->
+    <circle cx="680" cy="310" r="28" fill="#0d1117" stroke="#3fb950" stroke-width="1.5" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" begin="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="680" y="307" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#3fb950" text-anchor="middle" letter-spacing="1">CLOUD</text>
+    <text x="680" y="319" font-family="'SF Mono', 'Fira Code', monospace" font-size="7" fill="#8b949e" text-anchor="middle">DEPLOY</text>
+
+    <!-- Connecting lines with animated data flow -->
+    <!-- DATA → MODELS -->
+    <line x1="128" y1="311" x2="210" y2="300" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Animated pulse on DATA → MODELS -->
+    <circle r="3" fill="#58a6ff" opacity="0.9" filter="url(#glow)">
+      <animateMotion dur="2.5s" begin="4.5s" repeatCount="indefinite" path="M128,311 L210,300"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- MODELS → AGENTS -->
+    <line x1="270" y1="302" x2="360" y2="308" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+    <circle r="3" fill="#58a6ff" opacity="0.9" filter="url(#glow)">
+      <animateMotion dur="2.5s" begin="5.0s" repeatCount="indefinite" path="M270,302 L360,308"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="5.0s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- AGENTS → APPLICATION -->
+    <line x1="420" y1="302" x2="506" y2="298" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+    <circle r="3" fill="#3fb950" opacity="0.9" filter="url(#glow)">
+      <animateMotion dur="2.5s" begin="5.5s" repeatCount="indefinite" path="M420,302 L506,298"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- APPLICATION → CLOUD -->
+    <line x1="574" y1="302" x2="652" y2="307" stroke="#3fb950" stroke-width="1" stroke-opacity="0.3"/>
+    <circle r="3" fill="#3fb950" opacity="0.9" filter="url(#glow)">
+      <animateMotion dur="2.5s" begin="6.0s" repeatCount="indefinite" path="M574,302 L652,307"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="6.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- === STATUS BAR === -->
+  <line x1="1" y1="388" x2="899" y2="388" stroke="#21262d" stroke-width="1">
+    <animate attributeName="stroke-opacity" from="0" to="1" dur="0.3s" begin="4.2s" fill="freeze"/>
+  </line>
+
+  <g clip-path="url(#clip-status)">
+    <!-- Status dot + label -->
+    <circle cx="52" cy="404" r="4" fill="#3fb950" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="5.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="62" y="408" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#3fb950" letter-spacing="2">SYSTEM ONLINE</text>
+
+    <!-- Separator -->
+    <text x="200" y="408" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#21262d">│</text>
+
+    <!-- Location -->
+    <text x="215" y="408" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#8b949e">Chennai, India</text>
+
+    <!-- Separator -->
+    <text x="340" y="408" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#21262d">│</text>
+
+    <!-- Open to work -->
+    <text x="355" y="408" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#8b949e">Open to: <tspan fill="#58a6ff">Internships · Research · Collaboration</tspan></text>
+
+    <!-- Blinking cursor at end -->
+    <rect x="852" y="397" width="8" height="13" fill="#58a6ff">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" begin="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

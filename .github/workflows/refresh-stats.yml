@@ -1,0 +1,30 @@
+name: Refresh Stats & Contribution Snake
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/stats/github-contribution-snake.svg?color_snake=#58a6ff&color_dots[0]=#21262d&color_dots[1]=#0e4429&color_dots[2]=#006d32&color_dots[3]=#26a641&color_dots[4]=#39d353
+            assets/stats/github-contribution-snake-dark.svg?palette=github-dark
+            assets/stats/github-contribution-snake-light.svg?palette=github
+
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution snake [skip ci]"
+          file_pattern: "assets/stats/github-contribution-snake*.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
