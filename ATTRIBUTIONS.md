@@ -49,8 +49,10 @@ The following are **entirely original** works created for this profile:
 - `assets/hero/terminal-profile-static.svg` — Static dark profile dossier variant
 - `assets/hero/terminal-profile-light.svg` — Static light mode profile dossier variant
 - `generators/hero/generate_terminal_profile.py` — Terminal profile SVG generator script
-- `assets/hero/ai-console.svg` — Custom animated AI Engineering Console (SMIL)
-- `assets/hero/ai-console-light.svg` — Light mode variant
+- `assets/hero/ai-console.svg` — Custom animated Visual AI Systems Monitor (SMIL)
+- `assets/hero/ai-console-static.svg` — Static dark visual monitor variant
+- `assets/hero/ai-console-light.svg` — Static light mode visual monitor variant
+- `generators/hero/generate_ai_console.py` — Visual AI Systems Monitor SVG generator script
 - `assets/footer/terminal-footer.svg` — Terminal footer animation
 - All project pipeline diagrams (`assets/projects/`)
 - Overall README composition, visual identity, animation language, typography, and storytelling
