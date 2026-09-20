@@ -1,38 +1,38 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-09-20T02:03:55.203283+00:00",
+  "fetched_at": "2026-09-20T15:00:36.679792+00:00",
   "total_repos": 32,
   "repos_sampled": 29,
-  "total_bytes": 11275500,
+  "total_bytes": 11366388,
   "languages": [
     {
       "name": "JavaScript",
       "bytes": 4821989,
-      "percentage": 42.8,
-      "pct_display": "43%"
+      "percentage": 42.4,
+      "pct_display": "42%"
     },
     {
       "name": "Python",
       "bytes": 2533727,
-      "percentage": 22.5,
+      "percentage": 22.3,
       "pct_display": "22%"
     },
     {
       "name": "TypeScript",
-      "bytes": 1109793,
+      "bytes": 1109870,
       "percentage": 9.8,
       "pct_display": "10%"
     },
     {
       "name": "C",
       "bytes": 1004484,
-      "percentage": 8.9,
+      "percentage": 8.8,
       "pct_display": "9%"
     },
     {
       "name": "C++",
       "bytes": 788213,
-      "percentage": 7.0,
+      "percentage": 6.9,
       "pct_display": "7%"
     }
   ]
