@@ -1,11 +1,11 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-09-20T15:00:30.609246+00:00",
+  "fetched_at": "2026-09-21T02:04:04.699891+00:00",
   "total_contributions": 87,
   "active_days": 71,
-  "total_days": 365,
+  "total_days": 366,
   "start_date": "2025-09-21",
-  "end_date": "2026-09-20",
+  "end_date": "2026-09-21",
   "weeks_count": 53,
   "days": [
     {
@@ -2561,6 +2561,13 @@
       "level": 1,
       "count": 1,
       "weekday": 0,
+      "week_idx": 52
+    },
+    {
+      "date": "2026-09-21",
+      "level": 0,
+      "count": 0,
+      "weekday": 1,
       "week_idx": 52
     }
   ]

@@ -40,7 +40,7 @@
         fill="#f6f8fa" stroke="#e1e4e8" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="61.0" width="380.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="61.0" width="378.0" height="10.0" rx="2.5"
         fill="#0969da">
         
       </rect>
@@ -64,7 +64,7 @@
         fill="#f6f8fa" stroke="#e1e4e8" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="88.0" width="200.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="88.0" width="199.0" height="10.0" rx="2.5"
         fill="#0969da">
         
       </rect>
@@ -88,7 +88,7 @@
         fill="#f6f8fa" stroke="#e1e4e8" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="115.0" width="88.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="115.0" width="87.0" height="10.0" rx="2.5"
         fill="#0969da">
         
       </rect>
