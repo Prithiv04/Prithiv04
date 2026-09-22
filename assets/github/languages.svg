@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 216" width="900" height="216" role="img" aria-label="GitHub Repository Language Signal Graph">
   <title>Programming Language Signal · @Prithiv04</title>
-  <desc>Codebase language distribution across 29 public repositories: JavaScript 42%, Python 22%, TypeScript 10%, C 9%, C++ 7%.</desc>
+  <desc>Codebase language distribution across 29 public repositories: JavaScript 38%, Solidity 25%, Python 15%, TypeScript 7%, C 6%.</desc>
 
   <defs>
     <linearGradient id="langBg" x1="0" y1="0" x2="0" y2="1">
@@ -43,7 +43,7 @@
       <rect x="160.0" y="61.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="378.0"
+              from="0" to="337.0"
               dur="0.8s" begin="0.15s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -51,17 +51,17 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="70.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">42%</text>
+        fill="#58a6ff" letter-spacing="0.5">38%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="70.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">4.6 MB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">6.3 MB</text>
     </g>
-    <!-- Row 2: Python -->
+    <!-- Row 2: Solidity -->
     <g id="lang-row-2">
       <!-- Language Name -->
       <text x="142.0" y="97.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600"
-        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">Python</text>
+        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">Solidity</text>
 
       <!-- Track Groove -->
       <rect x="160.0" y="88.0" width="560.0" height="10.0" rx="2.5"
@@ -71,7 +71,7 @@
       <rect x="160.0" y="88.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="199.0"
+              from="0" to="222.0"
               dur="0.8s" begin="0.25s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -79,17 +79,17 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="97.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">22%</text>
+        fill="#58a6ff" letter-spacing="0.5">25%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="97.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">2.4 MB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">4.2 MB</text>
     </g>
-    <!-- Row 3: TypeScript -->
+    <!-- Row 3: Python -->
     <g id="lang-row-3">
       <!-- Language Name -->
       <text x="142.0" y="124.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600"
-        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">TypeScript</text>
+        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">Python</text>
 
       <!-- Track Groove -->
       <rect x="160.0" y="115.0" width="560.0" height="10.0" rx="2.5"
@@ -99,7 +99,7 @@
       <rect x="160.0" y="115.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="87.0"
+              from="0" to="132.0"
               dur="0.8s" begin="0.35s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -107,17 +107,17 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="124.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">10%</text>
+        fill="#58a6ff" letter-spacing="0.5">15%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="124.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">1.1 MB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">2.5 MB</text>
     </g>
-    <!-- Row 4: C -->
+    <!-- Row 4: TypeScript -->
     <g id="lang-row-4">
       <!-- Language Name -->
       <text x="142.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600"
-        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">C</text>
+        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">TypeScript</text>
 
       <!-- Track Groove -->
       <rect x="160.0" y="142.0" width="560.0" height="10.0" rx="2.5"
@@ -127,7 +127,7 @@
       <rect x="160.0" y="142.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="79.0"
+              from="0" to="62.0"
               dur="0.8s" begin="0.45s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -135,17 +135,17 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">9%</text>
+        fill="#58a6ff" letter-spacing="0.5">7%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">981 KB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">1.2 MB</text>
     </g>
-    <!-- Row 5: C++ -->
+    <!-- Row 5: C -->
     <g id="lang-row-5">
       <!-- Language Name -->
       <text x="142.0" y="178.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600"
-        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">C++</text>
+        fill="#f0f6fc" text-anchor="end" letter-spacing="0.5">C</text>
 
       <!-- Track Groove -->
       <rect x="160.0" y="169.0" width="560.0" height="10.0" rx="2.5"
@@ -155,7 +155,7 @@
       <rect x="160.0" y="169.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="62.0"
+              from="0" to="51.0"
               dur="0.8s" begin="0.55s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -163,11 +163,11 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="178.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">7%</text>
+        fill="#58a6ff" letter-spacing="0.5">6%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="178.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">770 KB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">981 KB</text>
     </g>
   </g>
 </svg>
