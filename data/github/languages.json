@@ -1,9 +1,9 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-09-29T03:03:02.464890+00:00",
+  "fetched_at": "2026-09-29T17:09:41.732995+00:00",
   "total_repos": 32,
   "repos_sampled": 29,
-  "total_bytes": 17799762,
+  "total_bytes": 17803318,
   "languages": [
     {
       "name": "JavaScript",
@@ -19,14 +19,14 @@
     },
     {
       "name": "Python",
-      "bytes": 2600589,
+      "bytes": 2600685,
       "percentage": 14.6,
       "pct_display": "15%"
     },
     {
       "name": "TypeScript",
-      "bytes": 1376365,
-      "percentage": 7.7,
+      "bytes": 1379825,
+      "percentage": 7.8,
       "pct_display": "8%"
     },
     {
