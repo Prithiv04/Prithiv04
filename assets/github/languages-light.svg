@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 216" width="900" height="216" role="img" aria-label="GitHub Repository Language Signal Graph">
   <title>Programming Language Signal · @Prithiv04</title>
-  <desc>Codebase language distribution across 29 public repositories: JavaScript 37%, Solidity 25%, Python 15%, TypeScript 7%, C 6%.</desc>
+  <desc>Codebase language distribution across 29 public repositories: JavaScript 37%, Solidity 25%, Python 15%, TypeScript 8%, C 6%.</desc>
 
   <defs>
     <linearGradient id="langBg" x1="0" y1="0" x2="0" y2="1">
@@ -112,14 +112,14 @@
         fill="#f6f8fa" stroke="#e1e4e8" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="142.0" width="67.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="142.0" width="68.0" height="10.0" rx="2.5"
         fill="#0969da">
         
       </rect>
 
       <!-- Percentage Display -->
       <text x="738.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#0969da" letter-spacing="0.5">7%</text>
+        fill="#0969da" letter-spacing="0.5">8%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
