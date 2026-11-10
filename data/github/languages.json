@@ -1,32 +1,32 @@
 {
   "username": "Prithiv04",
-  "fetched_at": "2026-11-10T04:59:12.745878+00:00",
-  "total_repos": 33,
-  "repos_sampled": 30,
-  "total_bytes": 17922057,
+  "fetched_at": "2026-11-10T18:59:09.134515+00:00",
+  "total_repos": 34,
+  "repos_sampled": 31,
+  "total_bytes": 17991407,
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 6636468,
+      "bytes": 6650530,
       "percentage": 37.0,
       "pct_display": "37%"
     },
     {
       "name": "Solidity",
       "bytes": 4443206,
-      "percentage": 24.8,
+      "percentage": 24.7,
       "pct_display": "25%"
     },
     {
       "name": "Python",
-      "bytes": 2679136,
-      "percentage": 14.9,
+      "bytes": 2720636,
+      "percentage": 15.1,
       "pct_display": "15%"
     },
     {
       "name": "TypeScript",
       "bytes": 1356002,
-      "percentage": 7.6,
+      "percentage": 7.5,
       "pct_display": "8%"
     },
     {
