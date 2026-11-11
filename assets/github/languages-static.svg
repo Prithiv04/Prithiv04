@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 216" width="900" height="216" role="img" aria-label="GitHub Repository Language Signal Graph">
   <title>Programming Language Signal · @Prithiv04</title>
-  <desc>Codebase language distribution across 31 public repositories: JavaScript 37%, Solidity 25%, Python 15%, TypeScript 8%, C 6%.</desc>
+  <desc>Codebase language distribution across 31 public repositories: JavaScript 37%, Solidity 25%, Python 15%, TypeScript 7%, C 6%.</desc>
 
   <defs>
     <linearGradient id="langBg" x1="0" y1="0" x2="0" y2="1">
@@ -40,7 +40,7 @@
         fill="#161b22" stroke="#21262d" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="61.0" width="332.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="61.0" width="331.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         
       </rect>
@@ -51,7 +51,7 @@
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="70.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
-        fill="#57606a" text-anchor="end" letter-spacing="0.5">6.3 MB</text>
+        fill="#57606a" text-anchor="end" letter-spacing="0.5">6.4 MB</text>
     </g>
     <!-- Row 2: Solidity -->
     <g id="lang-row-2">
@@ -64,7 +64,7 @@
         fill="#161b22" stroke="#21262d" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="88.0" width="221.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="88.0" width="220.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         
       </rect>
@@ -88,7 +88,7 @@
         fill="#161b22" stroke="#21262d" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="115.0" width="135.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="115.0" width="136.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         
       </rect>
@@ -119,7 +119,7 @@
 
       <!-- Percentage Display -->
       <text x="738.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="700"
-        fill="#58a6ff" letter-spacing="0.5">8%</text>
+        fill="#58a6ff" letter-spacing="0.5">7%</text>
 
       <!-- Codebase Volume Metadata -->
       <text x="864.0" y="151.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9"
@@ -136,7 +136,7 @@
         fill="#161b22" stroke="#21262d" stroke-width="1"/>
 
       <!-- Accent Bar -->
-      <rect x="160.0" y="169.0" width="50.0" height="10.0" rx="2.5"
+      <rect x="160.0" y="169.0" width="49.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         
       </rect>
