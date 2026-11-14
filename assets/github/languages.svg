@@ -43,7 +43,7 @@
       <rect x="160.0" y="61.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="331.0"
+              from="0" to="330.0"
               dur="0.8s" begin="0.15s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
@@ -71,7 +71,7 @@
       <rect x="160.0" y="88.0" width="0.0" height="10.0" rx="2.5"
         fill="#58a6ff">
         <animate attributeName="width"
-              from="0" to="220.0"
+              from="0" to="219.0"
               dur="0.8s" begin="0.25s"
               fill="freeze"
               calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0; 1"/>
